@@ -26,11 +26,16 @@ Dev window: 136 hourly bars, 2026-10-29T01:00Z → 2026-11-03T16:00Z.
 
 | Bot | Net PnL | Max DD | Trades |
 | --- | --- | --- | --- |
+| macd-cci (house baseline) | −$20.22 | 2.46% | 17 |
+| rsi-bollinger (house baseline) | −$56.49 | 5.16% | 8 |
+| adx-momentum (house baseline) | −$114.42 | 1.38% | 11 |
 | **This bot** | **−$128.99 (−1.29%)** | 2.13% | 30 (15 buys / 15 sells) |
+| EMA-cross (house baseline) | −$173.04 | 2.51% | 28 |
+| momentum (house baseline) | −$268.23 | 5.66% | 19 |
 | Buy-and-hold (official) | −$869.34 (−8.69%) | 10.92% | 7 |
-| EMA-cross (official) | −$173.04 | 2.51% | 28 |
+| hold-cash (house baseline) | $0.00 | 0.00% | 0 (non-compliant: fails the ≥8-trades guardrail) |
 
-This bot beats buy-and-hold by **+$740.35** and EMA-cross by **+$44.05**. Fees $42.55, 0 rejected orders, guardrails met (≥8 trades, max DD ≤ 25%).
+This bot beats buy-and-hold by **+$740.35** (the stated bar) and EMA-cross by **+$44.05**. Fees $42.55, 0 rejected orders, guardrails met (≥8 trades, max DD ≤ 25%). The best house baseline on the dev window is macd-cci at −$20.22; the prize is decided on the final window (3 whole UTC days after the deadline), which is unseen — the dev ranking does not determine it. See `validation.md` for the full baseline table.
 
 Walk-forward (offline replay, same strategy): first half (bars 0–68) −$88.25 (20 trades) vs B&H −$660.25; second half (68–136) −$85.84 (8 trades) vs B&H −$247.19; last-72-bars proxy for the final window −$156.07 (14 trades) vs B&H −$311.77. All slices beat B&H; max DD ≤ 3.8% everywhere.
 
