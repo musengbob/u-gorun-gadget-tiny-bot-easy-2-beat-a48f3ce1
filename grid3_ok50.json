@@ -1,0 +1,2752 @@
+[
+ {
+  "worst_margin": 155.69987000000003,
+  "full": {
+   "net_usdc": -294.10427,
+   "return_pct": -2.9410427,
+   "max_dd_pct": 3.7686255149275607,
+   "trades": 48,
+   "fees_usdc": 67.767215,
+   "final_cash_usdc": 9705.89573,
+   "buys": 24,
+   "sells": 24
+  },
+  "h1": {
+   "net_usdc": -88.251315,
+   "return_pct": -0.88251315,
+   "max_dd_pct": 1.727648221071575,
+   "trades": 20,
+   "fees_usdc": 34.057742,
+   "final_cash_usdc": 9911.748685,
+   "buys": 12,
+   "sells": 8
+  },
+  "h2": {
+   "net_usdc": -85.839155,
+   "return_pct": -0.85839155,
+   "max_dd_pct": 1.0772176969661094,
+   "trades": 8,
+   "fees_usdc": 11.36734,
+   "final_cash_usdc": 9914.160845,
+   "buys": 4,
+   "sells": 4
+  },
+  "w72": {
+   "net_usdc": -156.071893,
+   "return_pct": -1.56071893,
+   "max_dd_pct": 1.7316087727769616,
+   "trades": 14,
+   "fees_usdc": 19.855581,
+   "final_cash_usdc": 9843.928107,
+   "buys": 7,
+   "sells": 7
+  },
+  "P": {
+   "fast": 6,
+   "slow": 13,
+   "trail": 0.03,
+   "stop": 0.04,
+   "tp": 0.12,
+   "mom_lb": 6,
+   "mom_min": 0.0,
+   "breakout": 0,
+   "max_pos": 7,
+   "no_entry": 6
+  }
+ },
+ {
+  "worst_margin": 155.69987000000003,
+  "full": {
+   "net_usdc": -294.10427,
+   "return_pct": -2.9410427,
+   "max_dd_pct": 3.7686255149275607,
+   "trades": 48,
+   "fees_usdc": 67.767215,
+   "final_cash_usdc": 9705.89573,
+   "buys": 24,
+   "sells": 24
+  },
+  "h1": {
+   "net_usdc": -88.251315,
+   "return_pct": -0.88251315,
+   "max_dd_pct": 1.727648221071575,
+   "trades": 20,
+   "fees_usdc": 34.057742,
+   "final_cash_usdc": 9911.748685,
+   "buys": 12,
+   "sells": 8
+  },
+  "h2": {
+   "net_usdc": -85.839155,
+   "return_pct": -0.85839155,
+   "max_dd_pct": 1.0772176969661094,
+   "trades": 8,
+   "fees_usdc": 11.36734,
+   "final_cash_usdc": 9914.160845,
+   "buys": 4,
+   "sells": 4
+  },
+  "w72": {
+   "net_usdc": -156.071893,
+   "return_pct": -1.56071893,
+   "max_dd_pct": 1.7316087727769616,
+   "trades": 14,
+   "fees_usdc": 19.855581,
+   "final_cash_usdc": 9843.928107,
+   "buys": 7,
+   "sells": 7
+  },
+  "P": {
+   "fast": 6,
+   "slow": 13,
+   "trail": 0.03,
+   "stop": 0.04,
+   "tp": 0.2,
+   "mom_lb": 6,
+   "mom_min": 0.0,
+   "breakout": 0,
+   "max_pos": 7,
+   "no_entry": 6
+  }
+ },
+ {
+  "worst_margin": 155.69987000000003,
+  "full": {
+   "net_usdc": -294.10427,
+   "return_pct": -2.9410427,
+   "max_dd_pct": 3.7686255149275607,
+   "trades": 48,
+   "fees_usdc": 67.767215,
+   "final_cash_usdc": 9705.89573,
+   "buys": 24,
+   "sells": 24
+  },
+  "h1": {
+   "net_usdc": -88.251315,
+   "return_pct": -0.88251315,
+   "max_dd_pct": 1.727648221071575,
+   "trades": 20,
+   "fees_usdc": 34.057742,
+   "final_cash_usdc": 9911.748685,
+   "buys": 12,
+   "sells": 8
+  },
+  "h2": {
+   "net_usdc": -85.839155,
+   "return_pct": -0.85839155,
+   "max_dd_pct": 1.0772176969661094,
+   "trades": 8,
+   "fees_usdc": 11.36734,
+   "final_cash_usdc": 9914.160845,
+   "buys": 4,
+   "sells": 4
+  },
+  "w72": {
+   "net_usdc": -156.071893,
+   "return_pct": -1.56071893,
+   "max_dd_pct": 1.7316087727769616,
+   "trades": 14,
+   "fees_usdc": 19.855581,
+   "final_cash_usdc": 9843.928107,
+   "buys": 7,
+   "sells": 7
+  },
+  "P": {
+   "fast": 6,
+   "slow": 13,
+   "trail": 0.03,
+   "stop": 0.04,
+   "tp": 1000000000.0,
+   "mom_lb": 6,
+   "mom_min": 0.0,
+   "breakout": 0,
+   "max_pos": 7,
+   "no_entry": 6
+  }
+ },
+ {
+  "worst_margin": 155.69987000000003,
+  "full": {
+   "net_usdc": -294.10427,
+   "return_pct": -2.9410427,
+   "max_dd_pct": 3.7686255149275607,
+   "trades": 48,
+   "fees_usdc": 67.767215,
+   "final_cash_usdc": 9705.89573,
+   "buys": 24,
+   "sells": 24
+  },
+  "h1": {
+   "net_usdc": -88.251315,
+   "return_pct": -0.88251315,
+   "max_dd_pct": 1.727648221071575,
+   "trades": 20,
+   "fees_usdc": 34.057742,
+   "final_cash_usdc": 9911.748685,
+   "buys": 12,
+   "sells": 8
+  },
+  "h2": {
+   "net_usdc": -85.839155,
+   "return_pct": -0.85839155,
+   "max_dd_pct": 1.0772176969661094,
+   "trades": 8,
+   "fees_usdc": 11.36734,
+   "final_cash_usdc": 9914.160845,
+   "buys": 4,
+   "sells": 4
+  },
+  "w72": {
+   "net_usdc": -156.071893,
+   "return_pct": -1.56071893,
+   "max_dd_pct": 1.7316087727769616,
+   "trades": 14,
+   "fees_usdc": 19.855581,
+   "final_cash_usdc": 9843.928107,
+   "buys": 7,
+   "sells": 7
+  },
+  "P": {
+   "fast": 6,
+   "slow": 13,
+   "trail": 0.03,
+   "stop": 0.06,
+   "tp": 0.12,
+   "mom_lb": 6,
+   "mom_min": 0.0,
+   "breakout": 0,
+   "max_pos": 7,
+   "no_entry": 6
+  }
+ },
+ {
+  "worst_margin": 155.69987000000003,
+  "full": {
+   "net_usdc": -294.10427,
+   "return_pct": -2.9410427,
+   "max_dd_pct": 3.7686255149275607,
+   "trades": 48,
+   "fees_usdc": 67.767215,
+   "final_cash_usdc": 9705.89573,
+   "buys": 24,
+   "sells": 24
+  },
+  "h1": {
+   "net_usdc": -88.251315,
+   "return_pct": -0.88251315,
+   "max_dd_pct": 1.727648221071575,
+   "trades": 20,
+   "fees_usdc": 34.057742,
+   "final_cash_usdc": 9911.748685,
+   "buys": 12,
+   "sells": 8
+  },
+  "h2": {
+   "net_usdc": -85.839155,
+   "return_pct": -0.85839155,
+   "max_dd_pct": 1.0772176969661094,
+   "trades": 8,
+   "fees_usdc": 11.36734,
+   "final_cash_usdc": 9914.160845,
+   "buys": 4,
+   "sells": 4
+  },
+  "w72": {
+   "net_usdc": -156.071893,
+   "return_pct": -1.56071893,
+   "max_dd_pct": 1.7316087727769616,
+   "trades": 14,
+   "fees_usdc": 19.855581,
+   "final_cash_usdc": 9843.928107,
+   "buys": 7,
+   "sells": 7
+  },
+  "P": {
+   "fast": 6,
+   "slow": 13,
+   "trail": 0.03,
+   "stop": 0.06,
+   "tp": 0.2,
+   "mom_lb": 6,
+   "mom_min": 0.0,
+   "breakout": 0,
+   "max_pos": 7,
+   "no_entry": 6
+  }
+ },
+ {
+  "worst_margin": 155.69987000000003,
+  "full": {
+   "net_usdc": -294.10427,
+   "return_pct": -2.9410427,
+   "max_dd_pct": 3.7686255149275607,
+   "trades": 48,
+   "fees_usdc": 67.767215,
+   "final_cash_usdc": 9705.89573,
+   "buys": 24,
+   "sells": 24
+  },
+  "h1": {
+   "net_usdc": -88.251315,
+   "return_pct": -0.88251315,
+   "max_dd_pct": 1.727648221071575,
+   "trades": 20,
+   "fees_usdc": 34.057742,
+   "final_cash_usdc": 9911.748685,
+   "buys": 12,
+   "sells": 8
+  },
+  "h2": {
+   "net_usdc": -85.839155,
+   "return_pct": -0.85839155,
+   "max_dd_pct": 1.0772176969661094,
+   "trades": 8,
+   "fees_usdc": 11.36734,
+   "final_cash_usdc": 9914.160845,
+   "buys": 4,
+   "sells": 4
+  },
+  "w72": {
+   "net_usdc": -156.071893,
+   "return_pct": -1.56071893,
+   "max_dd_pct": 1.7316087727769616,
+   "trades": 14,
+   "fees_usdc": 19.855581,
+   "final_cash_usdc": 9843.928107,
+   "buys": 7,
+   "sells": 7
+  },
+  "P": {
+   "fast": 6,
+   "slow": 13,
+   "trail": 0.03,
+   "stop": 0.06,
+   "tp": 1000000000.0,
+   "mom_lb": 6,
+   "mom_min": 0.0,
+   "breakout": 0,
+   "max_pos": 7,
+   "no_entry": 6
+  }
+ },
+ {
+  "worst_margin": 155.69987000000003,
+  "full": {
+   "net_usdc": -294.10427,
+   "return_pct": -2.9410427,
+   "max_dd_pct": 3.7686255149275607,
+   "trades": 48,
+   "fees_usdc": 67.767215,
+   "final_cash_usdc": 9705.89573,
+   "buys": 24,
+   "sells": 24
+  },
+  "h1": {
+   "net_usdc": -88.251315,
+   "return_pct": -0.88251315,
+   "max_dd_pct": 1.727648221071575,
+   "trades": 20,
+   "fees_usdc": 34.057742,
+   "final_cash_usdc": 9911.748685,
+   "buys": 12,
+   "sells": 8
+  },
+  "h2": {
+   "net_usdc": -85.839155,
+   "return_pct": -0.85839155,
+   "max_dd_pct": 1.0772176969661094,
+   "trades": 8,
+   "fees_usdc": 11.36734,
+   "final_cash_usdc": 9914.160845,
+   "buys": 4,
+   "sells": 4
+  },
+  "w72": {
+   "net_usdc": -156.071893,
+   "return_pct": -1.56071893,
+   "max_dd_pct": 1.7316087727769616,
+   "trades": 14,
+   "fees_usdc": 19.855581,
+   "final_cash_usdc": 9843.928107,
+   "buys": 7,
+   "sells": 7
+  },
+  "P": {
+   "fast": 6,
+   "slow": 13,
+   "trail": 0.03,
+   "stop": 0.1,
+   "tp": 0.12,
+   "mom_lb": 6,
+   "mom_min": 0.0,
+   "breakout": 0,
+   "max_pos": 7,
+   "no_entry": 6
+  }
+ },
+ {
+  "worst_margin": 155.69987000000003,
+  "full": {
+   "net_usdc": -294.10427,
+   "return_pct": -2.9410427,
+   "max_dd_pct": 3.7686255149275607,
+   "trades": 48,
+   "fees_usdc": 67.767215,
+   "final_cash_usdc": 9705.89573,
+   "buys": 24,
+   "sells": 24
+  },
+  "h1": {
+   "net_usdc": -88.251315,
+   "return_pct": -0.88251315,
+   "max_dd_pct": 1.727648221071575,
+   "trades": 20,
+   "fees_usdc": 34.057742,
+   "final_cash_usdc": 9911.748685,
+   "buys": 12,
+   "sells": 8
+  },
+  "h2": {
+   "net_usdc": -85.839155,
+   "return_pct": -0.85839155,
+   "max_dd_pct": 1.0772176969661094,
+   "trades": 8,
+   "fees_usdc": 11.36734,
+   "final_cash_usdc": 9914.160845,
+   "buys": 4,
+   "sells": 4
+  },
+  "w72": {
+   "net_usdc": -156.071893,
+   "return_pct": -1.56071893,
+   "max_dd_pct": 1.7316087727769616,
+   "trades": 14,
+   "fees_usdc": 19.855581,
+   "final_cash_usdc": 9843.928107,
+   "buys": 7,
+   "sells": 7
+  },
+  "P": {
+   "fast": 6,
+   "slow": 13,
+   "trail": 0.03,
+   "stop": 0.1,
+   "tp": 0.2,
+   "mom_lb": 6,
+   "mom_min": 0.0,
+   "breakout": 0,
+   "max_pos": 7,
+   "no_entry": 6
+  }
+ },
+ {
+  "worst_margin": 155.69987000000003,
+  "full": {
+   "net_usdc": -294.10427,
+   "return_pct": -2.9410427,
+   "max_dd_pct": 3.7686255149275607,
+   "trades": 48,
+   "fees_usdc": 67.767215,
+   "final_cash_usdc": 9705.89573,
+   "buys": 24,
+   "sells": 24
+  },
+  "h1": {
+   "net_usdc": -88.251315,
+   "return_pct": -0.88251315,
+   "max_dd_pct": 1.727648221071575,
+   "trades": 20,
+   "fees_usdc": 34.057742,
+   "final_cash_usdc": 9911.748685,
+   "buys": 12,
+   "sells": 8
+  },
+  "h2": {
+   "net_usdc": -85.839155,
+   "return_pct": -0.85839155,
+   "max_dd_pct": 1.0772176969661094,
+   "trades": 8,
+   "fees_usdc": 11.36734,
+   "final_cash_usdc": 9914.160845,
+   "buys": 4,
+   "sells": 4
+  },
+  "w72": {
+   "net_usdc": -156.071893,
+   "return_pct": -1.56071893,
+   "max_dd_pct": 1.7316087727769616,
+   "trades": 14,
+   "fees_usdc": 19.855581,
+   "final_cash_usdc": 9843.928107,
+   "buys": 7,
+   "sells": 7
+  },
+  "P": {
+   "fast": 6,
+   "slow": 13,
+   "trail": 0.03,
+   "stop": 0.1,
+   "tp": 1000000000.0,
+   "mom_lb": 6,
+   "mom_min": 0.0,
+   "breakout": 0,
+   "max_pos": 7,
+   "no_entry": 6
+  }
+ },
+ {
+  "worst_margin": 155.69987000000003,
+  "full": {
+   "net_usdc": -296.913143,
+   "return_pct": -2.96913143,
+   "max_dd_pct": 3.7964747435885,
+   "trades": 48,
+   "fees_usdc": 67.381613,
+   "final_cash_usdc": 9703.086857,
+   "buys": 24,
+   "sells": 24
+  },
+  "h1": {
+   "net_usdc": -86.783528,
+   "return_pct": -0.86783528,
+   "max_dd_pct": 1.713095503384248,
+   "trades": 19,
+   "fees_usdc": 34.062654,
+   "final_cash_usdc": 9913.216472,
+   "buys": 12,
+   "sells": 7
+  },
+  "h2": {
+   "net_usdc": -85.839155,
+   "return_pct": -0.85839155,
+   "max_dd_pct": 1.0772176969661094,
+   "trades": 8,
+   "fees_usdc": 11.36734,
+   "final_cash_usdc": 9914.160845,
+   "buys": 4,
+   "sells": 4
+  },
+  "w72": {
+   "net_usdc": -156.071893,
+   "return_pct": -1.56071893,
+   "max_dd_pct": 1.7316087727769616,
+   "trades": 14,
+   "fees_usdc": 19.855581,
+   "final_cash_usdc": 9843.928107,
+   "buys": 7,
+   "sells": 7
+  },
+  "P": {
+   "fast": 6,
+   "slow": 13,
+   "trail": 0.05,
+   "stop": 0.04,
+   "tp": 0.12,
+   "mom_lb": 6,
+   "mom_min": 0.0,
+   "breakout": 0,
+   "max_pos": 7,
+   "no_entry": 6
+  }
+ },
+ {
+  "worst_margin": 155.69987000000003,
+  "full": {
+   "net_usdc": -296.913143,
+   "return_pct": -2.96913143,
+   "max_dd_pct": 3.7964747435885,
+   "trades": 48,
+   "fees_usdc": 67.381613,
+   "final_cash_usdc": 9703.086857,
+   "buys": 24,
+   "sells": 24
+  },
+  "h1": {
+   "net_usdc": -86.783528,
+   "return_pct": -0.86783528,
+   "max_dd_pct": 1.713095503384248,
+   "trades": 19,
+   "fees_usdc": 34.062654,
+   "final_cash_usdc": 9913.216472,
+   "buys": 12,
+   "sells": 7
+  },
+  "h2": {
+   "net_usdc": -85.839155,
+   "return_pct": -0.85839155,
+   "max_dd_pct": 1.0772176969661094,
+   "trades": 8,
+   "fees_usdc": 11.36734,
+   "final_cash_usdc": 9914.160845,
+   "buys": 4,
+   "sells": 4
+  },
+  "w72": {
+   "net_usdc": -156.071893,
+   "return_pct": -1.56071893,
+   "max_dd_pct": 1.7316087727769616,
+   "trades": 14,
+   "fees_usdc": 19.855581,
+   "final_cash_usdc": 9843.928107,
+   "buys": 7,
+   "sells": 7
+  },
+  "P": {
+   "fast": 6,
+   "slow": 13,
+   "trail": 0.05,
+   "stop": 0.04,
+   "tp": 0.2,
+   "mom_lb": 6,
+   "mom_min": 0.0,
+   "breakout": 0,
+   "max_pos": 7,
+   "no_entry": 6
+  }
+ },
+ {
+  "worst_margin": 155.69987000000003,
+  "full": {
+   "net_usdc": -296.913143,
+   "return_pct": -2.96913143,
+   "max_dd_pct": 3.7964747435885,
+   "trades": 48,
+   "fees_usdc": 67.381613,
+   "final_cash_usdc": 9703.086857,
+   "buys": 24,
+   "sells": 24
+  },
+  "h1": {
+   "net_usdc": -86.783528,
+   "return_pct": -0.86783528,
+   "max_dd_pct": 1.713095503384248,
+   "trades": 19,
+   "fees_usdc": 34.062654,
+   "final_cash_usdc": 9913.216472,
+   "buys": 12,
+   "sells": 7
+  },
+  "h2": {
+   "net_usdc": -85.839155,
+   "return_pct": -0.85839155,
+   "max_dd_pct": 1.0772176969661094,
+   "trades": 8,
+   "fees_usdc": 11.36734,
+   "final_cash_usdc": 9914.160845,
+   "buys": 4,
+   "sells": 4
+  },
+  "w72": {
+   "net_usdc": -156.071893,
+   "return_pct": -1.56071893,
+   "max_dd_pct": 1.7316087727769616,
+   "trades": 14,
+   "fees_usdc": 19.855581,
+   "final_cash_usdc": 9843.928107,
+   "buys": 7,
+   "sells": 7
+  },
+  "P": {
+   "fast": 6,
+   "slow": 13,
+   "trail": 0.05,
+   "stop": 0.04,
+   "tp": 1000000000.0,
+   "mom_lb": 6,
+   "mom_min": 0.0,
+   "breakout": 0,
+   "max_pos": 7,
+   "no_entry": 6
+  }
+ },
+ {
+  "worst_margin": 155.69987000000003,
+  "full": {
+   "net_usdc": -296.913143,
+   "return_pct": -2.96913143,
+   "max_dd_pct": 3.7964747435885,
+   "trades": 48,
+   "fees_usdc": 67.381613,
+   "final_cash_usdc": 9703.086857,
+   "buys": 24,
+   "sells": 24
+  },
+  "h1": {
+   "net_usdc": -86.783528,
+   "return_pct": -0.86783528,
+   "max_dd_pct": 1.713095503384248,
+   "trades": 19,
+   "fees_usdc": 34.062654,
+   "final_cash_usdc": 9913.216472,
+   "buys": 12,
+   "sells": 7
+  },
+  "h2": {
+   "net_usdc": -85.839155,
+   "return_pct": -0.85839155,
+   "max_dd_pct": 1.0772176969661094,
+   "trades": 8,
+   "fees_usdc": 11.36734,
+   "final_cash_usdc": 9914.160845,
+   "buys": 4,
+   "sells": 4
+  },
+  "w72": {
+   "net_usdc": -156.071893,
+   "return_pct": -1.56071893,
+   "max_dd_pct": 1.7316087727769616,
+   "trades": 14,
+   "fees_usdc": 19.855581,
+   "final_cash_usdc": 9843.928107,
+   "buys": 7,
+   "sells": 7
+  },
+  "P": {
+   "fast": 6,
+   "slow": 13,
+   "trail": 0.05,
+   "stop": 0.06,
+   "tp": 0.12,
+   "mom_lb": 6,
+   "mom_min": 0.0,
+   "breakout": 0,
+   "max_pos": 7,
+   "no_entry": 6
+  }
+ },
+ {
+  "worst_margin": 155.69987000000003,
+  "full": {
+   "net_usdc": -296.913143,
+   "return_pct": -2.96913143,
+   "max_dd_pct": 3.7964747435885,
+   "trades": 48,
+   "fees_usdc": 67.381613,
+   "final_cash_usdc": 9703.086857,
+   "buys": 24,
+   "sells": 24
+  },
+  "h1": {
+   "net_usdc": -86.783528,
+   "return_pct": -0.86783528,
+   "max_dd_pct": 1.713095503384248,
+   "trades": 19,
+   "fees_usdc": 34.062654,
+   "final_cash_usdc": 9913.216472,
+   "buys": 12,
+   "sells": 7
+  },
+  "h2": {
+   "net_usdc": -85.839155,
+   "return_pct": -0.85839155,
+   "max_dd_pct": 1.0772176969661094,
+   "trades": 8,
+   "fees_usdc": 11.36734,
+   "final_cash_usdc": 9914.160845,
+   "buys": 4,
+   "sells": 4
+  },
+  "w72": {
+   "net_usdc": -156.071893,
+   "return_pct": -1.56071893,
+   "max_dd_pct": 1.7316087727769616,
+   "trades": 14,
+   "fees_usdc": 19.855581,
+   "final_cash_usdc": 9843.928107,
+   "buys": 7,
+   "sells": 7
+  },
+  "P": {
+   "fast": 6,
+   "slow": 13,
+   "trail": 0.05,
+   "stop": 0.06,
+   "tp": 0.2,
+   "mom_lb": 6,
+   "mom_min": 0.0,
+   "breakout": 0,
+   "max_pos": 7,
+   "no_entry": 6
+  }
+ },
+ {
+  "worst_margin": 155.69987000000003,
+  "full": {
+   "net_usdc": -296.913143,
+   "return_pct": -2.96913143,
+   "max_dd_pct": 3.7964747435885,
+   "trades": 48,
+   "fees_usdc": 67.381613,
+   "final_cash_usdc": 9703.086857,
+   "buys": 24,
+   "sells": 24
+  },
+  "h1": {
+   "net_usdc": -86.783528,
+   "return_pct": -0.86783528,
+   "max_dd_pct": 1.713095503384248,
+   "trades": 19,
+   "fees_usdc": 34.062654,
+   "final_cash_usdc": 9913.216472,
+   "buys": 12,
+   "sells": 7
+  },
+  "h2": {
+   "net_usdc": -85.839155,
+   "return_pct": -0.85839155,
+   "max_dd_pct": 1.0772176969661094,
+   "trades": 8,
+   "fees_usdc": 11.36734,
+   "final_cash_usdc": 9914.160845,
+   "buys": 4,
+   "sells": 4
+  },
+  "w72": {
+   "net_usdc": -156.071893,
+   "return_pct": -1.56071893,
+   "max_dd_pct": 1.7316087727769616,
+   "trades": 14,
+   "fees_usdc": 19.855581,
+   "final_cash_usdc": 9843.928107,
+   "buys": 7,
+   "sells": 7
+  },
+  "P": {
+   "fast": 6,
+   "slow": 13,
+   "trail": 0.05,
+   "stop": 0.06,
+   "tp": 1000000000.0,
+   "mom_lb": 6,
+   "mom_min": 0.0,
+   "breakout": 0,
+   "max_pos": 7,
+   "no_entry": 6
+  }
+ },
+ {
+  "worst_margin": 155.69987000000003,
+  "full": {
+   "net_usdc": -296.913143,
+   "return_pct": -2.96913143,
+   "max_dd_pct": 3.7964747435885,
+   "trades": 48,
+   "fees_usdc": 67.381613,
+   "final_cash_usdc": 9703.086857,
+   "buys": 24,
+   "sells": 24
+  },
+  "h1": {
+   "net_usdc": -86.783528,
+   "return_pct": -0.86783528,
+   "max_dd_pct": 1.713095503384248,
+   "trades": 19,
+   "fees_usdc": 34.062654,
+   "final_cash_usdc": 9913.216472,
+   "buys": 12,
+   "sells": 7
+  },
+  "h2": {
+   "net_usdc": -85.839155,
+   "return_pct": -0.85839155,
+   "max_dd_pct": 1.0772176969661094,
+   "trades": 8,
+   "fees_usdc": 11.36734,
+   "final_cash_usdc": 9914.160845,
+   "buys": 4,
+   "sells": 4
+  },
+  "w72": {
+   "net_usdc": -156.071893,
+   "return_pct": -1.56071893,
+   "max_dd_pct": 1.7316087727769616,
+   "trades": 14,
+   "fees_usdc": 19.855581,
+   "final_cash_usdc": 9843.928107,
+   "buys": 7,
+   "sells": 7
+  },
+  "P": {
+   "fast": 6,
+   "slow": 13,
+   "trail": 0.05,
+   "stop": 0.1,
+   "tp": 0.12,
+   "mom_lb": 6,
+   "mom_min": 0.0,
+   "breakout": 0,
+   "max_pos": 7,
+   "no_entry": 6
+  }
+ },
+ {
+  "worst_margin": 155.69987000000003,
+  "full": {
+   "net_usdc": -296.913143,
+   "return_pct": -2.96913143,
+   "max_dd_pct": 3.7964747435885,
+   "trades": 48,
+   "fees_usdc": 67.381613,
+   "final_cash_usdc": 9703.086857,
+   "buys": 24,
+   "sells": 24
+  },
+  "h1": {
+   "net_usdc": -86.783528,
+   "return_pct": -0.86783528,
+   "max_dd_pct": 1.713095503384248,
+   "trades": 19,
+   "fees_usdc": 34.062654,
+   "final_cash_usdc": 9913.216472,
+   "buys": 12,
+   "sells": 7
+  },
+  "h2": {
+   "net_usdc": -85.839155,
+   "return_pct": -0.85839155,
+   "max_dd_pct": 1.0772176969661094,
+   "trades": 8,
+   "fees_usdc": 11.36734,
+   "final_cash_usdc": 9914.160845,
+   "buys": 4,
+   "sells": 4
+  },
+  "w72": {
+   "net_usdc": -156.071893,
+   "return_pct": -1.56071893,
+   "max_dd_pct": 1.7316087727769616,
+   "trades": 14,
+   "fees_usdc": 19.855581,
+   "final_cash_usdc": 9843.928107,
+   "buys": 7,
+   "sells": 7
+  },
+  "P": {
+   "fast": 6,
+   "slow": 13,
+   "trail": 0.05,
+   "stop": 0.1,
+   "tp": 0.2,
+   "mom_lb": 6,
+   "mom_min": 0.0,
+   "breakout": 0,
+   "max_pos": 7,
+   "no_entry": 6
+  }
+ },
+ {
+  "worst_margin": 155.69987000000003,
+  "full": {
+   "net_usdc": -296.913143,
+   "return_pct": -2.96913143,
+   "max_dd_pct": 3.7964747435885,
+   "trades": 48,
+   "fees_usdc": 67.381613,
+   "final_cash_usdc": 9703.086857,
+   "buys": 24,
+   "sells": 24
+  },
+  "h1": {
+   "net_usdc": -86.783528,
+   "return_pct": -0.86783528,
+   "max_dd_pct": 1.713095503384248,
+   "trades": 19,
+   "fees_usdc": 34.062654,
+   "final_cash_usdc": 9913.216472,
+   "buys": 12,
+   "sells": 7
+  },
+  "h2": {
+   "net_usdc": -85.839155,
+   "return_pct": -0.85839155,
+   "max_dd_pct": 1.0772176969661094,
+   "trades": 8,
+   "fees_usdc": 11.36734,
+   "final_cash_usdc": 9914.160845,
+   "buys": 4,
+   "sells": 4
+  },
+  "w72": {
+   "net_usdc": -156.071893,
+   "return_pct": -1.56071893,
+   "max_dd_pct": 1.7316087727769616,
+   "trades": 14,
+   "fees_usdc": 19.855581,
+   "final_cash_usdc": 9843.928107,
+   "buys": 7,
+   "sells": 7
+  },
+  "P": {
+   "fast": 6,
+   "slow": 13,
+   "trail": 0.05,
+   "stop": 0.1,
+   "tp": 1000000000.0,
+   "mom_lb": 6,
+   "mom_min": 0.0,
+   "breakout": 0,
+   "max_pos": 7,
+   "no_entry": 6
+  }
+ },
+ {
+  "worst_margin": 155.69987000000003,
+  "full": {
+   "net_usdc": -296.913143,
+   "return_pct": -2.96913143,
+   "max_dd_pct": 3.7964747435885,
+   "trades": 48,
+   "fees_usdc": 67.381613,
+   "final_cash_usdc": 9703.086857,
+   "buys": 24,
+   "sells": 24
+  },
+  "h1": {
+   "net_usdc": -86.783528,
+   "return_pct": -0.86783528,
+   "max_dd_pct": 1.713095503384248,
+   "trades": 19,
+   "fees_usdc": 34.062654,
+   "final_cash_usdc": 9913.216472,
+   "buys": 12,
+   "sells": 7
+  },
+  "h2": {
+   "net_usdc": -85.839155,
+   "return_pct": -0.85839155,
+   "max_dd_pct": 1.0772176969661094,
+   "trades": 8,
+   "fees_usdc": 11.36734,
+   "final_cash_usdc": 9914.160845,
+   "buys": 4,
+   "sells": 4
+  },
+  "w72": {
+   "net_usdc": -156.071893,
+   "return_pct": -1.56071893,
+   "max_dd_pct": 1.7316087727769616,
+   "trades": 14,
+   "fees_usdc": 19.855581,
+   "final_cash_usdc": 9843.928107,
+   "buys": 7,
+   "sells": 7
+  },
+  "P": {
+   "fast": 6,
+   "slow": 13,
+   "trail": 0.07,
+   "stop": 0.04,
+   "tp": 0.12,
+   "mom_lb": 6,
+   "mom_min": 0.0,
+   "breakout": 0,
+   "max_pos": 7,
+   "no_entry": 6
+  }
+ },
+ {
+  "worst_margin": 155.69987000000003,
+  "full": {
+   "net_usdc": -296.913143,
+   "return_pct": -2.96913143,
+   "max_dd_pct": 3.7964747435885,
+   "trades": 48,
+   "fees_usdc": 67.381613,
+   "final_cash_usdc": 9703.086857,
+   "buys": 24,
+   "sells": 24
+  },
+  "h1": {
+   "net_usdc": -86.783528,
+   "return_pct": -0.86783528,
+   "max_dd_pct": 1.713095503384248,
+   "trades": 19,
+   "fees_usdc": 34.062654,
+   "final_cash_usdc": 9913.216472,
+   "buys": 12,
+   "sells": 7
+  },
+  "h2": {
+   "net_usdc": -85.839155,
+   "return_pct": -0.85839155,
+   "max_dd_pct": 1.0772176969661094,
+   "trades": 8,
+   "fees_usdc": 11.36734,
+   "final_cash_usdc": 9914.160845,
+   "buys": 4,
+   "sells": 4
+  },
+  "w72": {
+   "net_usdc": -156.071893,
+   "return_pct": -1.56071893,
+   "max_dd_pct": 1.7316087727769616,
+   "trades": 14,
+   "fees_usdc": 19.855581,
+   "final_cash_usdc": 9843.928107,
+   "buys": 7,
+   "sells": 7
+  },
+  "P": {
+   "fast": 6,
+   "slow": 13,
+   "trail": 0.07,
+   "stop": 0.04,
+   "tp": 0.2,
+   "mom_lb": 6,
+   "mom_min": 0.0,
+   "breakout": 0,
+   "max_pos": 7,
+   "no_entry": 6
+  }
+ },
+ {
+  "worst_margin": 155.69987000000003,
+  "full": {
+   "net_usdc": -296.913143,
+   "return_pct": -2.96913143,
+   "max_dd_pct": 3.7964747435885,
+   "trades": 48,
+   "fees_usdc": 67.381613,
+   "final_cash_usdc": 9703.086857,
+   "buys": 24,
+   "sells": 24
+  },
+  "h1": {
+   "net_usdc": -86.783528,
+   "return_pct": -0.86783528,
+   "max_dd_pct": 1.713095503384248,
+   "trades": 19,
+   "fees_usdc": 34.062654,
+   "final_cash_usdc": 9913.216472,
+   "buys": 12,
+   "sells": 7
+  },
+  "h2": {
+   "net_usdc": -85.839155,
+   "return_pct": -0.85839155,
+   "max_dd_pct": 1.0772176969661094,
+   "trades": 8,
+   "fees_usdc": 11.36734,
+   "final_cash_usdc": 9914.160845,
+   "buys": 4,
+   "sells": 4
+  },
+  "w72": {
+   "net_usdc": -156.071893,
+   "return_pct": -1.56071893,
+   "max_dd_pct": 1.7316087727769616,
+   "trades": 14,
+   "fees_usdc": 19.855581,
+   "final_cash_usdc": 9843.928107,
+   "buys": 7,
+   "sells": 7
+  },
+  "P": {
+   "fast": 6,
+   "slow": 13,
+   "trail": 0.07,
+   "stop": 0.04,
+   "tp": 1000000000.0,
+   "mom_lb": 6,
+   "mom_min": 0.0,
+   "breakout": 0,
+   "max_pos": 7,
+   "no_entry": 6
+  }
+ },
+ {
+  "worst_margin": 155.69987000000003,
+  "full": {
+   "net_usdc": -296.913143,
+   "return_pct": -2.96913143,
+   "max_dd_pct": 3.7964747435885,
+   "trades": 48,
+   "fees_usdc": 67.381613,
+   "final_cash_usdc": 9703.086857,
+   "buys": 24,
+   "sells": 24
+  },
+  "h1": {
+   "net_usdc": -86.783528,
+   "return_pct": -0.86783528,
+   "max_dd_pct": 1.713095503384248,
+   "trades": 19,
+   "fees_usdc": 34.062654,
+   "final_cash_usdc": 9913.216472,
+   "buys": 12,
+   "sells": 7
+  },
+  "h2": {
+   "net_usdc": -85.839155,
+   "return_pct": -0.85839155,
+   "max_dd_pct": 1.0772176969661094,
+   "trades": 8,
+   "fees_usdc": 11.36734,
+   "final_cash_usdc": 9914.160845,
+   "buys": 4,
+   "sells": 4
+  },
+  "w72": {
+   "net_usdc": -156.071893,
+   "return_pct": -1.56071893,
+   "max_dd_pct": 1.7316087727769616,
+   "trades": 14,
+   "fees_usdc": 19.855581,
+   "final_cash_usdc": 9843.928107,
+   "buys": 7,
+   "sells": 7
+  },
+  "P": {
+   "fast": 6,
+   "slow": 13,
+   "trail": 0.07,
+   "stop": 0.06,
+   "tp": 0.12,
+   "mom_lb": 6,
+   "mom_min": 0.0,
+   "breakout": 0,
+   "max_pos": 7,
+   "no_entry": 6
+  }
+ },
+ {
+  "worst_margin": 155.69987000000003,
+  "full": {
+   "net_usdc": -296.913143,
+   "return_pct": -2.96913143,
+   "max_dd_pct": 3.7964747435885,
+   "trades": 48,
+   "fees_usdc": 67.381613,
+   "final_cash_usdc": 9703.086857,
+   "buys": 24,
+   "sells": 24
+  },
+  "h1": {
+   "net_usdc": -86.783528,
+   "return_pct": -0.86783528,
+   "max_dd_pct": 1.713095503384248,
+   "trades": 19,
+   "fees_usdc": 34.062654,
+   "final_cash_usdc": 9913.216472,
+   "buys": 12,
+   "sells": 7
+  },
+  "h2": {
+   "net_usdc": -85.839155,
+   "return_pct": -0.85839155,
+   "max_dd_pct": 1.0772176969661094,
+   "trades": 8,
+   "fees_usdc": 11.36734,
+   "final_cash_usdc": 9914.160845,
+   "buys": 4,
+   "sells": 4
+  },
+  "w72": {
+   "net_usdc": -156.071893,
+   "return_pct": -1.56071893,
+   "max_dd_pct": 1.7316087727769616,
+   "trades": 14,
+   "fees_usdc": 19.855581,
+   "final_cash_usdc": 9843.928107,
+   "buys": 7,
+   "sells": 7
+  },
+  "P": {
+   "fast": 6,
+   "slow": 13,
+   "trail": 0.07,
+   "stop": 0.06,
+   "tp": 0.2,
+   "mom_lb": 6,
+   "mom_min": 0.0,
+   "breakout": 0,
+   "max_pos": 7,
+   "no_entry": 6
+  }
+ },
+ {
+  "worst_margin": 155.69987000000003,
+  "full": {
+   "net_usdc": -296.913143,
+   "return_pct": -2.96913143,
+   "max_dd_pct": 3.7964747435885,
+   "trades": 48,
+   "fees_usdc": 67.381613,
+   "final_cash_usdc": 9703.086857,
+   "buys": 24,
+   "sells": 24
+  },
+  "h1": {
+   "net_usdc": -86.783528,
+   "return_pct": -0.86783528,
+   "max_dd_pct": 1.713095503384248,
+   "trades": 19,
+   "fees_usdc": 34.062654,
+   "final_cash_usdc": 9913.216472,
+   "buys": 12,
+   "sells": 7
+  },
+  "h2": {
+   "net_usdc": -85.839155,
+   "return_pct": -0.85839155,
+   "max_dd_pct": 1.0772176969661094,
+   "trades": 8,
+   "fees_usdc": 11.36734,
+   "final_cash_usdc": 9914.160845,
+   "buys": 4,
+   "sells": 4
+  },
+  "w72": {
+   "net_usdc": -156.071893,
+   "return_pct": -1.56071893,
+   "max_dd_pct": 1.7316087727769616,
+   "trades": 14,
+   "fees_usdc": 19.855581,
+   "final_cash_usdc": 9843.928107,
+   "buys": 7,
+   "sells": 7
+  },
+  "P": {
+   "fast": 6,
+   "slow": 13,
+   "trail": 0.07,
+   "stop": 0.06,
+   "tp": 1000000000.0,
+   "mom_lb": 6,
+   "mom_min": 0.0,
+   "breakout": 0,
+   "max_pos": 7,
+   "no_entry": 6
+  }
+ },
+ {
+  "worst_margin": 155.69987000000003,
+  "full": {
+   "net_usdc": -296.913143,
+   "return_pct": -2.96913143,
+   "max_dd_pct": 3.7964747435885,
+   "trades": 48,
+   "fees_usdc": 67.381613,
+   "final_cash_usdc": 9703.086857,
+   "buys": 24,
+   "sells": 24
+  },
+  "h1": {
+   "net_usdc": -86.783528,
+   "return_pct": -0.86783528,
+   "max_dd_pct": 1.713095503384248,
+   "trades": 19,
+   "fees_usdc": 34.062654,
+   "final_cash_usdc": 9913.216472,
+   "buys": 12,
+   "sells": 7
+  },
+  "h2": {
+   "net_usdc": -85.839155,
+   "return_pct": -0.85839155,
+   "max_dd_pct": 1.0772176969661094,
+   "trades": 8,
+   "fees_usdc": 11.36734,
+   "final_cash_usdc": 9914.160845,
+   "buys": 4,
+   "sells": 4
+  },
+  "w72": {
+   "net_usdc": -156.071893,
+   "return_pct": -1.56071893,
+   "max_dd_pct": 1.7316087727769616,
+   "trades": 14,
+   "fees_usdc": 19.855581,
+   "final_cash_usdc": 9843.928107,
+   "buys": 7,
+   "sells": 7
+  },
+  "P": {
+   "fast": 6,
+   "slow": 13,
+   "trail": 0.07,
+   "stop": 0.1,
+   "tp": 0.12,
+   "mom_lb": 6,
+   "mom_min": 0.0,
+   "breakout": 0,
+   "max_pos": 7,
+   "no_entry": 6
+  }
+ },
+ {
+  "worst_margin": 155.69987000000003,
+  "full": {
+   "net_usdc": -296.913143,
+   "return_pct": -2.96913143,
+   "max_dd_pct": 3.7964747435885,
+   "trades": 48,
+   "fees_usdc": 67.381613,
+   "final_cash_usdc": 9703.086857,
+   "buys": 24,
+   "sells": 24
+  },
+  "h1": {
+   "net_usdc": -86.783528,
+   "return_pct": -0.86783528,
+   "max_dd_pct": 1.713095503384248,
+   "trades": 19,
+   "fees_usdc": 34.062654,
+   "final_cash_usdc": 9913.216472,
+   "buys": 12,
+   "sells": 7
+  },
+  "h2": {
+   "net_usdc": -85.839155,
+   "return_pct": -0.85839155,
+   "max_dd_pct": 1.0772176969661094,
+   "trades": 8,
+   "fees_usdc": 11.36734,
+   "final_cash_usdc": 9914.160845,
+   "buys": 4,
+   "sells": 4
+  },
+  "w72": {
+   "net_usdc": -156.071893,
+   "return_pct": -1.56071893,
+   "max_dd_pct": 1.7316087727769616,
+   "trades": 14,
+   "fees_usdc": 19.855581,
+   "final_cash_usdc": 9843.928107,
+   "buys": 7,
+   "sells": 7
+  },
+  "P": {
+   "fast": 6,
+   "slow": 13,
+   "trail": 0.07,
+   "stop": 0.1,
+   "tp": 0.2,
+   "mom_lb": 6,
+   "mom_min": 0.0,
+   "breakout": 0,
+   "max_pos": 7,
+   "no_entry": 6
+  }
+ },
+ {
+  "worst_margin": 155.69987000000003,
+  "full": {
+   "net_usdc": -296.913143,
+   "return_pct": -2.96913143,
+   "max_dd_pct": 3.7964747435885,
+   "trades": 48,
+   "fees_usdc": 67.381613,
+   "final_cash_usdc": 9703.086857,
+   "buys": 24,
+   "sells": 24
+  },
+  "h1": {
+   "net_usdc": -86.783528,
+   "return_pct": -0.86783528,
+   "max_dd_pct": 1.713095503384248,
+   "trades": 19,
+   "fees_usdc": 34.062654,
+   "final_cash_usdc": 9913.216472,
+   "buys": 12,
+   "sells": 7
+  },
+  "h2": {
+   "net_usdc": -85.839155,
+   "return_pct": -0.85839155,
+   "max_dd_pct": 1.0772176969661094,
+   "trades": 8,
+   "fees_usdc": 11.36734,
+   "final_cash_usdc": 9914.160845,
+   "buys": 4,
+   "sells": 4
+  },
+  "w72": {
+   "net_usdc": -156.071893,
+   "return_pct": -1.56071893,
+   "max_dd_pct": 1.7316087727769616,
+   "trades": 14,
+   "fees_usdc": 19.855581,
+   "final_cash_usdc": 9843.928107,
+   "buys": 7,
+   "sells": 7
+  },
+  "P": {
+   "fast": 6,
+   "slow": 13,
+   "trail": 0.07,
+   "stop": 0.1,
+   "tp": 1000000000.0,
+   "mom_lb": 6,
+   "mom_min": 0.0,
+   "breakout": 0,
+   "max_pos": 7,
+   "no_entry": 6
+  }
+ },
+ {
+  "worst_margin": 155.69987000000003,
+  "full": {
+   "net_usdc": -296.913143,
+   "return_pct": -2.96913143,
+   "max_dd_pct": 3.7964747435885,
+   "trades": 48,
+   "fees_usdc": 67.381613,
+   "final_cash_usdc": 9703.086857,
+   "buys": 24,
+   "sells": 24
+  },
+  "h1": {
+   "net_usdc": -86.783528,
+   "return_pct": -0.86783528,
+   "max_dd_pct": 1.713095503384248,
+   "trades": 19,
+   "fees_usdc": 34.062654,
+   "final_cash_usdc": 9913.216472,
+   "buys": 12,
+   "sells": 7
+  },
+  "h2": {
+   "net_usdc": -85.839155,
+   "return_pct": -0.85839155,
+   "max_dd_pct": 1.0772176969661094,
+   "trades": 8,
+   "fees_usdc": 11.36734,
+   "final_cash_usdc": 9914.160845,
+   "buys": 4,
+   "sells": 4
+  },
+  "w72": {
+   "net_usdc": -156.071893,
+   "return_pct": -1.56071893,
+   "max_dd_pct": 1.7316087727769616,
+   "trades": 14,
+   "fees_usdc": 19.855581,
+   "final_cash_usdc": 9843.928107,
+   "buys": 7,
+   "sells": 7
+  },
+  "P": {
+   "fast": 6,
+   "slow": 13,
+   "trail": 1000000000.0,
+   "stop": 0.04,
+   "tp": 0.12,
+   "mom_lb": 6,
+   "mom_min": 0.0,
+   "breakout": 0,
+   "max_pos": 7,
+   "no_entry": 6
+  }
+ },
+ {
+  "worst_margin": 155.69987000000003,
+  "full": {
+   "net_usdc": -296.913143,
+   "return_pct": -2.96913143,
+   "max_dd_pct": 3.7964747435885,
+   "trades": 48,
+   "fees_usdc": 67.381613,
+   "final_cash_usdc": 9703.086857,
+   "buys": 24,
+   "sells": 24
+  },
+  "h1": {
+   "net_usdc": -86.783528,
+   "return_pct": -0.86783528,
+   "max_dd_pct": 1.713095503384248,
+   "trades": 19,
+   "fees_usdc": 34.062654,
+   "final_cash_usdc": 9913.216472,
+   "buys": 12,
+   "sells": 7
+  },
+  "h2": {
+   "net_usdc": -85.839155,
+   "return_pct": -0.85839155,
+   "max_dd_pct": 1.0772176969661094,
+   "trades": 8,
+   "fees_usdc": 11.36734,
+   "final_cash_usdc": 9914.160845,
+   "buys": 4,
+   "sells": 4
+  },
+  "w72": {
+   "net_usdc": -156.071893,
+   "return_pct": -1.56071893,
+   "max_dd_pct": 1.7316087727769616,
+   "trades": 14,
+   "fees_usdc": 19.855581,
+   "final_cash_usdc": 9843.928107,
+   "buys": 7,
+   "sells": 7
+  },
+  "P": {
+   "fast": 6,
+   "slow": 13,
+   "trail": 1000000000.0,
+   "stop": 0.04,
+   "tp": 0.2,
+   "mom_lb": 6,
+   "mom_min": 0.0,
+   "breakout": 0,
+   "max_pos": 7,
+   "no_entry": 6
+  }
+ },
+ {
+  "worst_margin": 155.69987000000003,
+  "full": {
+   "net_usdc": -296.913143,
+   "return_pct": -2.96913143,
+   "max_dd_pct": 3.7964747435885,
+   "trades": 48,
+   "fees_usdc": 67.381613,
+   "final_cash_usdc": 9703.086857,
+   "buys": 24,
+   "sells": 24
+  },
+  "h1": {
+   "net_usdc": -86.783528,
+   "return_pct": -0.86783528,
+   "max_dd_pct": 1.713095503384248,
+   "trades": 19,
+   "fees_usdc": 34.062654,
+   "final_cash_usdc": 9913.216472,
+   "buys": 12,
+   "sells": 7
+  },
+  "h2": {
+   "net_usdc": -85.839155,
+   "return_pct": -0.85839155,
+   "max_dd_pct": 1.0772176969661094,
+   "trades": 8,
+   "fees_usdc": 11.36734,
+   "final_cash_usdc": 9914.160845,
+   "buys": 4,
+   "sells": 4
+  },
+  "w72": {
+   "net_usdc": -156.071893,
+   "return_pct": -1.56071893,
+   "max_dd_pct": 1.7316087727769616,
+   "trades": 14,
+   "fees_usdc": 19.855581,
+   "final_cash_usdc": 9843.928107,
+   "buys": 7,
+   "sells": 7
+  },
+  "P": {
+   "fast": 6,
+   "slow": 13,
+   "trail": 1000000000.0,
+   "stop": 0.04,
+   "tp": 1000000000.0,
+   "mom_lb": 6,
+   "mom_min": 0.0,
+   "breakout": 0,
+   "max_pos": 7,
+   "no_entry": 6
+  }
+ },
+ {
+  "worst_margin": 155.69987000000003,
+  "full": {
+   "net_usdc": -296.913143,
+   "return_pct": -2.96913143,
+   "max_dd_pct": 3.7964747435885,
+   "trades": 48,
+   "fees_usdc": 67.381613,
+   "final_cash_usdc": 9703.086857,
+   "buys": 24,
+   "sells": 24
+  },
+  "h1": {
+   "net_usdc": -86.783528,
+   "return_pct": -0.86783528,
+   "max_dd_pct": 1.713095503384248,
+   "trades": 19,
+   "fees_usdc": 34.062654,
+   "final_cash_usdc": 9913.216472,
+   "buys": 12,
+   "sells": 7
+  },
+  "h2": {
+   "net_usdc": -85.839155,
+   "return_pct": -0.85839155,
+   "max_dd_pct": 1.0772176969661094,
+   "trades": 8,
+   "fees_usdc": 11.36734,
+   "final_cash_usdc": 9914.160845,
+   "buys": 4,
+   "sells": 4
+  },
+  "w72": {
+   "net_usdc": -156.071893,
+   "return_pct": -1.56071893,
+   "max_dd_pct": 1.7316087727769616,
+   "trades": 14,
+   "fees_usdc": 19.855581,
+   "final_cash_usdc": 9843.928107,
+   "buys": 7,
+   "sells": 7
+  },
+  "P": {
+   "fast": 6,
+   "slow": 13,
+   "trail": 1000000000.0,
+   "stop": 0.06,
+   "tp": 0.12,
+   "mom_lb": 6,
+   "mom_min": 0.0,
+   "breakout": 0,
+   "max_pos": 7,
+   "no_entry": 6
+  }
+ },
+ {
+  "worst_margin": 155.69987000000003,
+  "full": {
+   "net_usdc": -296.913143,
+   "return_pct": -2.96913143,
+   "max_dd_pct": 3.7964747435885,
+   "trades": 48,
+   "fees_usdc": 67.381613,
+   "final_cash_usdc": 9703.086857,
+   "buys": 24,
+   "sells": 24
+  },
+  "h1": {
+   "net_usdc": -86.783528,
+   "return_pct": -0.86783528,
+   "max_dd_pct": 1.713095503384248,
+   "trades": 19,
+   "fees_usdc": 34.062654,
+   "final_cash_usdc": 9913.216472,
+   "buys": 12,
+   "sells": 7
+  },
+  "h2": {
+   "net_usdc": -85.839155,
+   "return_pct": -0.85839155,
+   "max_dd_pct": 1.0772176969661094,
+   "trades": 8,
+   "fees_usdc": 11.36734,
+   "final_cash_usdc": 9914.160845,
+   "buys": 4,
+   "sells": 4
+  },
+  "w72": {
+   "net_usdc": -156.071893,
+   "return_pct": -1.56071893,
+   "max_dd_pct": 1.7316087727769616,
+   "trades": 14,
+   "fees_usdc": 19.855581,
+   "final_cash_usdc": 9843.928107,
+   "buys": 7,
+   "sells": 7
+  },
+  "P": {
+   "fast": 6,
+   "slow": 13,
+   "trail": 1000000000.0,
+   "stop": 0.06,
+   "tp": 0.2,
+   "mom_lb": 6,
+   "mom_min": 0.0,
+   "breakout": 0,
+   "max_pos": 7,
+   "no_entry": 6
+  }
+ },
+ {
+  "worst_margin": 155.69987000000003,
+  "full": {
+   "net_usdc": -296.913143,
+   "return_pct": -2.96913143,
+   "max_dd_pct": 3.7964747435885,
+   "trades": 48,
+   "fees_usdc": 67.381613,
+   "final_cash_usdc": 9703.086857,
+   "buys": 24,
+   "sells": 24
+  },
+  "h1": {
+   "net_usdc": -86.783528,
+   "return_pct": -0.86783528,
+   "max_dd_pct": 1.713095503384248,
+   "trades": 19,
+   "fees_usdc": 34.062654,
+   "final_cash_usdc": 9913.216472,
+   "buys": 12,
+   "sells": 7
+  },
+  "h2": {
+   "net_usdc": -85.839155,
+   "return_pct": -0.85839155,
+   "max_dd_pct": 1.0772176969661094,
+   "trades": 8,
+   "fees_usdc": 11.36734,
+   "final_cash_usdc": 9914.160845,
+   "buys": 4,
+   "sells": 4
+  },
+  "w72": {
+   "net_usdc": -156.071893,
+   "return_pct": -1.56071893,
+   "max_dd_pct": 1.7316087727769616,
+   "trades": 14,
+   "fees_usdc": 19.855581,
+   "final_cash_usdc": 9843.928107,
+   "buys": 7,
+   "sells": 7
+  },
+  "P": {
+   "fast": 6,
+   "slow": 13,
+   "trail": 1000000000.0,
+   "stop": 0.06,
+   "tp": 1000000000.0,
+   "mom_lb": 6,
+   "mom_min": 0.0,
+   "breakout": 0,
+   "max_pos": 7,
+   "no_entry": 6
+  }
+ },
+ {
+  "worst_margin": 155.69987000000003,
+  "full": {
+   "net_usdc": -296.913143,
+   "return_pct": -2.96913143,
+   "max_dd_pct": 3.7964747435885,
+   "trades": 48,
+   "fees_usdc": 67.381613,
+   "final_cash_usdc": 9703.086857,
+   "buys": 24,
+   "sells": 24
+  },
+  "h1": {
+   "net_usdc": -86.783528,
+   "return_pct": -0.86783528,
+   "max_dd_pct": 1.713095503384248,
+   "trades": 19,
+   "fees_usdc": 34.062654,
+   "final_cash_usdc": 9913.216472,
+   "buys": 12,
+   "sells": 7
+  },
+  "h2": {
+   "net_usdc": -85.839155,
+   "return_pct": -0.85839155,
+   "max_dd_pct": 1.0772176969661094,
+   "trades": 8,
+   "fees_usdc": 11.36734,
+   "final_cash_usdc": 9914.160845,
+   "buys": 4,
+   "sells": 4
+  },
+  "w72": {
+   "net_usdc": -156.071893,
+   "return_pct": -1.56071893,
+   "max_dd_pct": 1.7316087727769616,
+   "trades": 14,
+   "fees_usdc": 19.855581,
+   "final_cash_usdc": 9843.928107,
+   "buys": 7,
+   "sells": 7
+  },
+  "P": {
+   "fast": 6,
+   "slow": 13,
+   "trail": 1000000000.0,
+   "stop": 0.1,
+   "tp": 0.12,
+   "mom_lb": 6,
+   "mom_min": 0.0,
+   "breakout": 0,
+   "max_pos": 7,
+   "no_entry": 6
+  }
+ },
+ {
+  "worst_margin": 155.69987000000003,
+  "full": {
+   "net_usdc": -296.913143,
+   "return_pct": -2.96913143,
+   "max_dd_pct": 3.7964747435885,
+   "trades": 48,
+   "fees_usdc": 67.381613,
+   "final_cash_usdc": 9703.086857,
+   "buys": 24,
+   "sells": 24
+  },
+  "h1": {
+   "net_usdc": -86.783528,
+   "return_pct": -0.86783528,
+   "max_dd_pct": 1.713095503384248,
+   "trades": 19,
+   "fees_usdc": 34.062654,
+   "final_cash_usdc": 9913.216472,
+   "buys": 12,
+   "sells": 7
+  },
+  "h2": {
+   "net_usdc": -85.839155,
+   "return_pct": -0.85839155,
+   "max_dd_pct": 1.0772176969661094,
+   "trades": 8,
+   "fees_usdc": 11.36734,
+   "final_cash_usdc": 9914.160845,
+   "buys": 4,
+   "sells": 4
+  },
+  "w72": {
+   "net_usdc": -156.071893,
+   "return_pct": -1.56071893,
+   "max_dd_pct": 1.7316087727769616,
+   "trades": 14,
+   "fees_usdc": 19.855581,
+   "final_cash_usdc": 9843.928107,
+   "buys": 7,
+   "sells": 7
+  },
+  "P": {
+   "fast": 6,
+   "slow": 13,
+   "trail": 1000000000.0,
+   "stop": 0.1,
+   "tp": 0.2,
+   "mom_lb": 6,
+   "mom_min": 0.0,
+   "breakout": 0,
+   "max_pos": 7,
+   "no_entry": 6
+  }
+ },
+ {
+  "worst_margin": 155.69987000000003,
+  "full": {
+   "net_usdc": -296.913143,
+   "return_pct": -2.96913143,
+   "max_dd_pct": 3.7964747435885,
+   "trades": 48,
+   "fees_usdc": 67.381613,
+   "final_cash_usdc": 9703.086857,
+   "buys": 24,
+   "sells": 24
+  },
+  "h1": {
+   "net_usdc": -86.783528,
+   "return_pct": -0.86783528,
+   "max_dd_pct": 1.713095503384248,
+   "trades": 19,
+   "fees_usdc": 34.062654,
+   "final_cash_usdc": 9913.216472,
+   "buys": 12,
+   "sells": 7
+  },
+  "h2": {
+   "net_usdc": -85.839155,
+   "return_pct": -0.85839155,
+   "max_dd_pct": 1.0772176969661094,
+   "trades": 8,
+   "fees_usdc": 11.36734,
+   "final_cash_usdc": 9914.160845,
+   "buys": 4,
+   "sells": 4
+  },
+  "w72": {
+   "net_usdc": -156.071893,
+   "return_pct": -1.56071893,
+   "max_dd_pct": 1.7316087727769616,
+   "trades": 14,
+   "fees_usdc": 19.855581,
+   "final_cash_usdc": 9843.928107,
+   "buys": 7,
+   "sells": 7
+  },
+  "P": {
+   "fast": 6,
+   "slow": 13,
+   "trail": 1000000000.0,
+   "stop": 0.1,
+   "tp": 1000000000.0,
+   "mom_lb": 6,
+   "mom_min": 0.0,
+   "breakout": 0,
+   "max_pos": 7,
+   "no_entry": 6
+  }
+ },
+ {
+  "worst_margin": 149.755251,
+  "full": {
+   "net_usdc": -244.622893,
+   "return_pct": -2.44622893,
+   "max_dd_pct": 3.2651597083184285,
+   "trades": 34,
+   "fees_usdc": 48.203012,
+   "final_cash_usdc": 9755.377107,
+   "buys": 17,
+   "sells": 17
+  },
+  "h1": {
+   "net_usdc": -61.097549,
+   "return_pct": -0.61097549,
+   "max_dd_pct": 1.4453125976847463,
+   "trades": 12,
+   "fees_usdc": 22.844151,
+   "final_cash_usdc": 9938.902451,
+   "buys": 8,
+   "sells": 4
+  },
+  "h2": {
+   "net_usdc": -97.438401,
+   "return_pct": -0.97438401,
+   "max_dd_pct": 1.1541586878517898,
+   "trades": 8,
+   "fees_usdc": 11.349515,
+   "final_cash_usdc": 9902.561599,
+   "buys": 4,
+   "sells": 4
+  },
+  "w72": {
+   "net_usdc": -128.140679,
+   "return_pct": -1.28140679,
+   "max_dd_pct": 1.28140679,
+   "trades": 10,
+   "fees_usdc": 14.145038,
+   "final_cash_usdc": 9871.859321,
+   "buys": 5,
+   "sells": 5
+  },
+  "P": {
+   "fast": 6,
+   "slow": 21,
+   "trail": 0.03,
+   "stop": 0.04,
+   "tp": 0.12,
+   "mom_lb": 6,
+   "mom_min": 0.0,
+   "breakout": 24,
+   "max_pos": 7,
+   "no_entry": 6
+  }
+ },
+ {
+  "worst_margin": 149.755251,
+  "full": {
+   "net_usdc": -244.622893,
+   "return_pct": -2.44622893,
+   "max_dd_pct": 3.2651597083184285,
+   "trades": 34,
+   "fees_usdc": 48.203012,
+   "final_cash_usdc": 9755.377107,
+   "buys": 17,
+   "sells": 17
+  },
+  "h1": {
+   "net_usdc": -61.097549,
+   "return_pct": -0.61097549,
+   "max_dd_pct": 1.4453125976847463,
+   "trades": 12,
+   "fees_usdc": 22.844151,
+   "final_cash_usdc": 9938.902451,
+   "buys": 8,
+   "sells": 4
+  },
+  "h2": {
+   "net_usdc": -97.438401,
+   "return_pct": -0.97438401,
+   "max_dd_pct": 1.1541586878517898,
+   "trades": 8,
+   "fees_usdc": 11.349515,
+   "final_cash_usdc": 9902.561599,
+   "buys": 4,
+   "sells": 4
+  },
+  "w72": {
+   "net_usdc": -128.140679,
+   "return_pct": -1.28140679,
+   "max_dd_pct": 1.28140679,
+   "trades": 10,
+   "fees_usdc": 14.145038,
+   "final_cash_usdc": 9871.859321,
+   "buys": 5,
+   "sells": 5
+  },
+  "P": {
+   "fast": 6,
+   "slow": 21,
+   "trail": 0.03,
+   "stop": 0.04,
+   "tp": 0.2,
+   "mom_lb": 6,
+   "mom_min": 0.0,
+   "breakout": 24,
+   "max_pos": 7,
+   "no_entry": 6
+  }
+ },
+ {
+  "worst_margin": 149.755251,
+  "full": {
+   "net_usdc": -244.622893,
+   "return_pct": -2.44622893,
+   "max_dd_pct": 3.2651597083184285,
+   "trades": 34,
+   "fees_usdc": 48.203012,
+   "final_cash_usdc": 9755.377107,
+   "buys": 17,
+   "sells": 17
+  },
+  "h1": {
+   "net_usdc": -61.097549,
+   "return_pct": -0.61097549,
+   "max_dd_pct": 1.4453125976847463,
+   "trades": 12,
+   "fees_usdc": 22.844151,
+   "final_cash_usdc": 9938.902451,
+   "buys": 8,
+   "sells": 4
+  },
+  "h2": {
+   "net_usdc": -97.438401,
+   "return_pct": -0.97438401,
+   "max_dd_pct": 1.1541586878517898,
+   "trades": 8,
+   "fees_usdc": 11.349515,
+   "final_cash_usdc": 9902.561599,
+   "buys": 4,
+   "sells": 4
+  },
+  "w72": {
+   "net_usdc": -128.140679,
+   "return_pct": -1.28140679,
+   "max_dd_pct": 1.28140679,
+   "trades": 10,
+   "fees_usdc": 14.145038,
+   "final_cash_usdc": 9871.859321,
+   "buys": 5,
+   "sells": 5
+  },
+  "P": {
+   "fast": 6,
+   "slow": 21,
+   "trail": 0.03,
+   "stop": 0.04,
+   "tp": 1000000000.0,
+   "mom_lb": 6,
+   "mom_min": 0.0,
+   "breakout": 24,
+   "max_pos": 7,
+   "no_entry": 6
+  }
+ },
+ {
+  "worst_margin": 149.755251,
+  "full": {
+   "net_usdc": -244.622893,
+   "return_pct": -2.44622893,
+   "max_dd_pct": 3.2651597083184285,
+   "trades": 34,
+   "fees_usdc": 48.203012,
+   "final_cash_usdc": 9755.377107,
+   "buys": 17,
+   "sells": 17
+  },
+  "h1": {
+   "net_usdc": -61.097549,
+   "return_pct": -0.61097549,
+   "max_dd_pct": 1.4453125976847463,
+   "trades": 12,
+   "fees_usdc": 22.844151,
+   "final_cash_usdc": 9938.902451,
+   "buys": 8,
+   "sells": 4
+  },
+  "h2": {
+   "net_usdc": -97.438401,
+   "return_pct": -0.97438401,
+   "max_dd_pct": 1.1541586878517898,
+   "trades": 8,
+   "fees_usdc": 11.349515,
+   "final_cash_usdc": 9902.561599,
+   "buys": 4,
+   "sells": 4
+  },
+  "w72": {
+   "net_usdc": -128.140679,
+   "return_pct": -1.28140679,
+   "max_dd_pct": 1.28140679,
+   "trades": 10,
+   "fees_usdc": 14.145038,
+   "final_cash_usdc": 9871.859321,
+   "buys": 5,
+   "sells": 5
+  },
+  "P": {
+   "fast": 6,
+   "slow": 21,
+   "trail": 0.03,
+   "stop": 0.06,
+   "tp": 0.12,
+   "mom_lb": 6,
+   "mom_min": 0.0,
+   "breakout": 24,
+   "max_pos": 7,
+   "no_entry": 6
+  }
+ },
+ {
+  "worst_margin": 149.755251,
+  "full": {
+   "net_usdc": -244.622893,
+   "return_pct": -2.44622893,
+   "max_dd_pct": 3.2651597083184285,
+   "trades": 34,
+   "fees_usdc": 48.203012,
+   "final_cash_usdc": 9755.377107,
+   "buys": 17,
+   "sells": 17
+  },
+  "h1": {
+   "net_usdc": -61.097549,
+   "return_pct": -0.61097549,
+   "max_dd_pct": 1.4453125976847463,
+   "trades": 12,
+   "fees_usdc": 22.844151,
+   "final_cash_usdc": 9938.902451,
+   "buys": 8,
+   "sells": 4
+  },
+  "h2": {
+   "net_usdc": -97.438401,
+   "return_pct": -0.97438401,
+   "max_dd_pct": 1.1541586878517898,
+   "trades": 8,
+   "fees_usdc": 11.349515,
+   "final_cash_usdc": 9902.561599,
+   "buys": 4,
+   "sells": 4
+  },
+  "w72": {
+   "net_usdc": -128.140679,
+   "return_pct": -1.28140679,
+   "max_dd_pct": 1.28140679,
+   "trades": 10,
+   "fees_usdc": 14.145038,
+   "final_cash_usdc": 9871.859321,
+   "buys": 5,
+   "sells": 5
+  },
+  "P": {
+   "fast": 6,
+   "slow": 21,
+   "trail": 0.03,
+   "stop": 0.06,
+   "tp": 0.2,
+   "mom_lb": 6,
+   "mom_min": 0.0,
+   "breakout": 24,
+   "max_pos": 7,
+   "no_entry": 6
+  }
+ },
+ {
+  "worst_margin": 149.755251,
+  "full": {
+   "net_usdc": -244.622893,
+   "return_pct": -2.44622893,
+   "max_dd_pct": 3.2651597083184285,
+   "trades": 34,
+   "fees_usdc": 48.203012,
+   "final_cash_usdc": 9755.377107,
+   "buys": 17,
+   "sells": 17
+  },
+  "h1": {
+   "net_usdc": -61.097549,
+   "return_pct": -0.61097549,
+   "max_dd_pct": 1.4453125976847463,
+   "trades": 12,
+   "fees_usdc": 22.844151,
+   "final_cash_usdc": 9938.902451,
+   "buys": 8,
+   "sells": 4
+  },
+  "h2": {
+   "net_usdc": -97.438401,
+   "return_pct": -0.97438401,
+   "max_dd_pct": 1.1541586878517898,
+   "trades": 8,
+   "fees_usdc": 11.349515,
+   "final_cash_usdc": 9902.561599,
+   "buys": 4,
+   "sells": 4
+  },
+  "w72": {
+   "net_usdc": -128.140679,
+   "return_pct": -1.28140679,
+   "max_dd_pct": 1.28140679,
+   "trades": 10,
+   "fees_usdc": 14.145038,
+   "final_cash_usdc": 9871.859321,
+   "buys": 5,
+   "sells": 5
+  },
+  "P": {
+   "fast": 6,
+   "slow": 21,
+   "trail": 0.03,
+   "stop": 0.06,
+   "tp": 1000000000.0,
+   "mom_lb": 6,
+   "mom_min": 0.0,
+   "breakout": 24,
+   "max_pos": 7,
+   "no_entry": 6
+  }
+ },
+ {
+  "worst_margin": 149.755251,
+  "full": {
+   "net_usdc": -244.622893,
+   "return_pct": -2.44622893,
+   "max_dd_pct": 3.2651597083184285,
+   "trades": 34,
+   "fees_usdc": 48.203012,
+   "final_cash_usdc": 9755.377107,
+   "buys": 17,
+   "sells": 17
+  },
+  "h1": {
+   "net_usdc": -61.097549,
+   "return_pct": -0.61097549,
+   "max_dd_pct": 1.4453125976847463,
+   "trades": 12,
+   "fees_usdc": 22.844151,
+   "final_cash_usdc": 9938.902451,
+   "buys": 8,
+   "sells": 4
+  },
+  "h2": {
+   "net_usdc": -97.438401,
+   "return_pct": -0.97438401,
+   "max_dd_pct": 1.1541586878517898,
+   "trades": 8,
+   "fees_usdc": 11.349515,
+   "final_cash_usdc": 9902.561599,
+   "buys": 4,
+   "sells": 4
+  },
+  "w72": {
+   "net_usdc": -128.140679,
+   "return_pct": -1.28140679,
+   "max_dd_pct": 1.28140679,
+   "trades": 10,
+   "fees_usdc": 14.145038,
+   "final_cash_usdc": 9871.859321,
+   "buys": 5,
+   "sells": 5
+  },
+  "P": {
+   "fast": 6,
+   "slow": 21,
+   "trail": 0.03,
+   "stop": 0.1,
+   "tp": 0.12,
+   "mom_lb": 6,
+   "mom_min": 0.0,
+   "breakout": 24,
+   "max_pos": 7,
+   "no_entry": 6
+  }
+ },
+ {
+  "worst_margin": 149.755251,
+  "full": {
+   "net_usdc": -244.622893,
+   "return_pct": -2.44622893,
+   "max_dd_pct": 3.2651597083184285,
+   "trades": 34,
+   "fees_usdc": 48.203012,
+   "final_cash_usdc": 9755.377107,
+   "buys": 17,
+   "sells": 17
+  },
+  "h1": {
+   "net_usdc": -61.097549,
+   "return_pct": -0.61097549,
+   "max_dd_pct": 1.4453125976847463,
+   "trades": 12,
+   "fees_usdc": 22.844151,
+   "final_cash_usdc": 9938.902451,
+   "buys": 8,
+   "sells": 4
+  },
+  "h2": {
+   "net_usdc": -97.438401,
+   "return_pct": -0.97438401,
+   "max_dd_pct": 1.1541586878517898,
+   "trades": 8,
+   "fees_usdc": 11.349515,
+   "final_cash_usdc": 9902.561599,
+   "buys": 4,
+   "sells": 4
+  },
+  "w72": {
+   "net_usdc": -128.140679,
+   "return_pct": -1.28140679,
+   "max_dd_pct": 1.28140679,
+   "trades": 10,
+   "fees_usdc": 14.145038,
+   "final_cash_usdc": 9871.859321,
+   "buys": 5,
+   "sells": 5
+  },
+  "P": {
+   "fast": 6,
+   "slow": 21,
+   "trail": 0.03,
+   "stop": 0.1,
+   "tp": 0.2,
+   "mom_lb": 6,
+   "mom_min": 0.0,
+   "breakout": 24,
+   "max_pos": 7,
+   "no_entry": 6
+  }
+ },
+ {
+  "worst_margin": 149.755251,
+  "full": {
+   "net_usdc": -244.622893,
+   "return_pct": -2.44622893,
+   "max_dd_pct": 3.2651597083184285,
+   "trades": 34,
+   "fees_usdc": 48.203012,
+   "final_cash_usdc": 9755.377107,
+   "buys": 17,
+   "sells": 17
+  },
+  "h1": {
+   "net_usdc": -61.097549,
+   "return_pct": -0.61097549,
+   "max_dd_pct": 1.4453125976847463,
+   "trades": 12,
+   "fees_usdc": 22.844151,
+   "final_cash_usdc": 9938.902451,
+   "buys": 8,
+   "sells": 4
+  },
+  "h2": {
+   "net_usdc": -97.438401,
+   "return_pct": -0.97438401,
+   "max_dd_pct": 1.1541586878517898,
+   "trades": 8,
+   "fees_usdc": 11.349515,
+   "final_cash_usdc": 9902.561599,
+   "buys": 4,
+   "sells": 4
+  },
+  "w72": {
+   "net_usdc": -128.140679,
+   "return_pct": -1.28140679,
+   "max_dd_pct": 1.28140679,
+   "trades": 10,
+   "fees_usdc": 14.145038,
+   "final_cash_usdc": 9871.859321,
+   "buys": 5,
+   "sells": 5
+  },
+  "P": {
+   "fast": 6,
+   "slow": 21,
+   "trail": 0.03,
+   "stop": 0.1,
+   "tp": 1000000000.0,
+   "mom_lb": 6,
+   "mom_min": 0.0,
+   "breakout": 24,
+   "max_pos": 7,
+   "no_entry": 6
+  }
+ },
+ {
+  "worst_margin": 149.755251,
+  "full": {
+   "net_usdc": -253.501997,
+   "return_pct": -2.53501997,
+   "max_dd_pct": 3.3532053776915696,
+   "trades": 36,
+   "fees_usdc": 51.010919,
+   "final_cash_usdc": 9746.498003,
+   "buys": 18,
+   "sells": 18
+  },
+  "h1": {
+   "net_usdc": -61.097549,
+   "return_pct": -0.61097549,
+   "max_dd_pct": 1.4453125976847463,
+   "trades": 12,
+   "fees_usdc": 22.844151,
+   "final_cash_usdc": 9938.902451,
+   "buys": 8,
+   "sells": 4
+  },
+  "h2": {
+   "net_usdc": -97.438401,
+   "return_pct": -0.97438401,
+   "max_dd_pct": 1.1541586878517898,
+   "trades": 8,
+   "fees_usdc": 11.349515,
+   "final_cash_usdc": 9902.561599,
+   "buys": 4,
+   "sells": 4
+  },
+  "w72": {
+   "net_usdc": -128.140679,
+   "return_pct": -1.28140679,
+   "max_dd_pct": 1.28140679,
+   "trades": 10,
+   "fees_usdc": 14.145038,
+   "final_cash_usdc": 9871.859321,
+   "buys": 5,
+   "sells": 5
+  },
+  "P": {
+   "fast": 6,
+   "slow": 21,
+   "trail": 0.03,
+   "stop": 0.04,
+   "tp": 0.12,
+   "mom_lb": 6,
+   "mom_min": -1000000000.0,
+   "breakout": 24,
+   "max_pos": 7,
+   "no_entry": 6
+  }
+ },
+ {
+  "worst_margin": 149.755251,
+  "full": {
+   "net_usdc": -253.501997,
+   "return_pct": -2.53501997,
+   "max_dd_pct": 3.3532053776915696,
+   "trades": 36,
+   "fees_usdc": 51.010919,
+   "final_cash_usdc": 9746.498003,
+   "buys": 18,
+   "sells": 18
+  },
+  "h1": {
+   "net_usdc": -61.097549,
+   "return_pct": -0.61097549,
+   "max_dd_pct": 1.4453125976847463,
+   "trades": 12,
+   "fees_usdc": 22.844151,
+   "final_cash_usdc": 9938.902451,
+   "buys": 8,
+   "sells": 4
+  },
+  "h2": {
+   "net_usdc": -97.438401,
+   "return_pct": -0.97438401,
+   "max_dd_pct": 1.1541586878517898,
+   "trades": 8,
+   "fees_usdc": 11.349515,
+   "final_cash_usdc": 9902.561599,
+   "buys": 4,
+   "sells": 4
+  },
+  "w72": {
+   "net_usdc": -128.140679,
+   "return_pct": -1.28140679,
+   "max_dd_pct": 1.28140679,
+   "trades": 10,
+   "fees_usdc": 14.145038,
+   "final_cash_usdc": 9871.859321,
+   "buys": 5,
+   "sells": 5
+  },
+  "P": {
+   "fast": 6,
+   "slow": 21,
+   "trail": 0.03,
+   "stop": 0.04,
+   "tp": 0.12,
+   "mom_lb": 12,
+   "mom_min": -1000000000.0,
+   "breakout": 24,
+   "max_pos": 7,
+   "no_entry": 6
+  }
+ },
+ {
+  "worst_margin": 149.755251,
+  "full": {
+   "net_usdc": -253.501997,
+   "return_pct": -2.53501997,
+   "max_dd_pct": 3.3532053776915696,
+   "trades": 36,
+   "fees_usdc": 51.010919,
+   "final_cash_usdc": 9746.498003,
+   "buys": 18,
+   "sells": 18
+  },
+  "h1": {
+   "net_usdc": -61.097549,
+   "return_pct": -0.61097549,
+   "max_dd_pct": 1.4453125976847463,
+   "trades": 12,
+   "fees_usdc": 22.844151,
+   "final_cash_usdc": 9938.902451,
+   "buys": 8,
+   "sells": 4
+  },
+  "h2": {
+   "net_usdc": -97.438401,
+   "return_pct": -0.97438401,
+   "max_dd_pct": 1.1541586878517898,
+   "trades": 8,
+   "fees_usdc": 11.349515,
+   "final_cash_usdc": 9902.561599,
+   "buys": 4,
+   "sells": 4
+  },
+  "w72": {
+   "net_usdc": -128.140679,
+   "return_pct": -1.28140679,
+   "max_dd_pct": 1.28140679,
+   "trades": 10,
+   "fees_usdc": 14.145038,
+   "final_cash_usdc": 9871.859321,
+   "buys": 5,
+   "sells": 5
+  },
+  "P": {
+   "fast": 6,
+   "slow": 21,
+   "trail": 0.03,
+   "stop": 0.04,
+   "tp": 0.2,
+   "mom_lb": 6,
+   "mom_min": -1000000000.0,
+   "breakout": 24,
+   "max_pos": 7,
+   "no_entry": 6
+  }
+ },
+ {
+  "worst_margin": 149.755251,
+  "full": {
+   "net_usdc": -253.501997,
+   "return_pct": -2.53501997,
+   "max_dd_pct": 3.3532053776915696,
+   "trades": 36,
+   "fees_usdc": 51.010919,
+   "final_cash_usdc": 9746.498003,
+   "buys": 18,
+   "sells": 18
+  },
+  "h1": {
+   "net_usdc": -61.097549,
+   "return_pct": -0.61097549,
+   "max_dd_pct": 1.4453125976847463,
+   "trades": 12,
+   "fees_usdc": 22.844151,
+   "final_cash_usdc": 9938.902451,
+   "buys": 8,
+   "sells": 4
+  },
+  "h2": {
+   "net_usdc": -97.438401,
+   "return_pct": -0.97438401,
+   "max_dd_pct": 1.1541586878517898,
+   "trades": 8,
+   "fees_usdc": 11.349515,
+   "final_cash_usdc": 9902.561599,
+   "buys": 4,
+   "sells": 4
+  },
+  "w72": {
+   "net_usdc": -128.140679,
+   "return_pct": -1.28140679,
+   "max_dd_pct": 1.28140679,
+   "trades": 10,
+   "fees_usdc": 14.145038,
+   "final_cash_usdc": 9871.859321,
+   "buys": 5,
+   "sells": 5
+  },
+  "P": {
+   "fast": 6,
+   "slow": 21,
+   "trail": 0.03,
+   "stop": 0.04,
+   "tp": 0.2,
+   "mom_lb": 12,
+   "mom_min": -1000000000.0,
+   "breakout": 24,
+   "max_pos": 7,
+   "no_entry": 6
+  }
+ },
+ {
+  "worst_margin": 149.755251,
+  "full": {
+   "net_usdc": -253.501997,
+   "return_pct": -2.53501997,
+   "max_dd_pct": 3.3532053776915696,
+   "trades": 36,
+   "fees_usdc": 51.010919,
+   "final_cash_usdc": 9746.498003,
+   "buys": 18,
+   "sells": 18
+  },
+  "h1": {
+   "net_usdc": -61.097549,
+   "return_pct": -0.61097549,
+   "max_dd_pct": 1.4453125976847463,
+   "trades": 12,
+   "fees_usdc": 22.844151,
+   "final_cash_usdc": 9938.902451,
+   "buys": 8,
+   "sells": 4
+  },
+  "h2": {
+   "net_usdc": -97.438401,
+   "return_pct": -0.97438401,
+   "max_dd_pct": 1.1541586878517898,
+   "trades": 8,
+   "fees_usdc": 11.349515,
+   "final_cash_usdc": 9902.561599,
+   "buys": 4,
+   "sells": 4
+  },
+  "w72": {
+   "net_usdc": -128.140679,
+   "return_pct": -1.28140679,
+   "max_dd_pct": 1.28140679,
+   "trades": 10,
+   "fees_usdc": 14.145038,
+   "final_cash_usdc": 9871.859321,
+   "buys": 5,
+   "sells": 5
+  },
+  "P": {
+   "fast": 6,
+   "slow": 21,
+   "trail": 0.03,
+   "stop": 0.04,
+   "tp": 1000000000.0,
+   "mom_lb": 6,
+   "mom_min": -1000000000.0,
+   "breakout": 24,
+   "max_pos": 7,
+   "no_entry": 6
+  }
+ }
+]

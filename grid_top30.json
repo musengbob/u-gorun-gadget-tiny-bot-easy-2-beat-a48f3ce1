@@ -1,0 +1,782 @@
+[
+ {
+  "net": -93.208579,
+  "r": {
+   "net_usdc": -93.208579,
+   "return_pct": -0.93208579,
+   "max_dd_pct": 2.258143362171706,
+   "trades": 8,
+   "fees_usdc": 19.916712,
+   "final_cash_usdc": 9906.791421,
+   "buys": 4,
+   "sells": 4
+  },
+  "P": {
+   "fast": 8,
+   "slow": 21,
+   "trail": 0.05,
+   "stop": 0.04,
+   "tp": 0.1,
+   "mom_lb": 12,
+   "mom_min": 0.0,
+   "breakout": 0,
+   "max_pos": 4,
+   "no_entry": 6
+  },
+  "ok": true
+ },
+ {
+  "net": -93.208579,
+  "r": {
+   "net_usdc": -93.208579,
+   "return_pct": -0.93208579,
+   "max_dd_pct": 2.258143362171706,
+   "trades": 8,
+   "fees_usdc": 19.916712,
+   "final_cash_usdc": 9906.791421,
+   "buys": 4,
+   "sells": 4
+  },
+  "P": {
+   "fast": 8,
+   "slow": 21,
+   "trail": 0.05,
+   "stop": 0.04,
+   "tp": 0.2,
+   "mom_lb": 12,
+   "mom_min": 0.0,
+   "breakout": 0,
+   "max_pos": 4,
+   "no_entry": 6
+  },
+  "ok": true
+ },
+ {
+  "net": -93.208579,
+  "r": {
+   "net_usdc": -93.208579,
+   "return_pct": -0.93208579,
+   "max_dd_pct": 2.258143362171706,
+   "trades": 8,
+   "fees_usdc": 19.916712,
+   "final_cash_usdc": 9906.791421,
+   "buys": 4,
+   "sells": 4
+  },
+  "P": {
+   "fast": 8,
+   "slow": 21,
+   "trail": 0.05,
+   "stop": 0.04,
+   "tp": 1000000000.0,
+   "mom_lb": 12,
+   "mom_min": 0.0,
+   "breakout": 0,
+   "max_pos": 4,
+   "no_entry": 6
+  },
+  "ok": true
+ },
+ {
+  "net": -93.208579,
+  "r": {
+   "net_usdc": -93.208579,
+   "return_pct": -0.93208579,
+   "max_dd_pct": 2.258143362171706,
+   "trades": 8,
+   "fees_usdc": 19.916712,
+   "final_cash_usdc": 9906.791421,
+   "buys": 4,
+   "sells": 4
+  },
+  "P": {
+   "fast": 8,
+   "slow": 21,
+   "trail": 0.05,
+   "stop": 0.06,
+   "tp": 0.1,
+   "mom_lb": 12,
+   "mom_min": 0.0,
+   "breakout": 0,
+   "max_pos": 4,
+   "no_entry": 6
+  },
+  "ok": true
+ },
+ {
+  "net": -93.208579,
+  "r": {
+   "net_usdc": -93.208579,
+   "return_pct": -0.93208579,
+   "max_dd_pct": 2.258143362171706,
+   "trades": 8,
+   "fees_usdc": 19.916712,
+   "final_cash_usdc": 9906.791421,
+   "buys": 4,
+   "sells": 4
+  },
+  "P": {
+   "fast": 8,
+   "slow": 21,
+   "trail": 0.05,
+   "stop": 0.06,
+   "tp": 0.2,
+   "mom_lb": 12,
+   "mom_min": 0.0,
+   "breakout": 0,
+   "max_pos": 4,
+   "no_entry": 6
+  },
+  "ok": true
+ },
+ {
+  "net": -93.208579,
+  "r": {
+   "net_usdc": -93.208579,
+   "return_pct": -0.93208579,
+   "max_dd_pct": 2.258143362171706,
+   "trades": 8,
+   "fees_usdc": 19.916712,
+   "final_cash_usdc": 9906.791421,
+   "buys": 4,
+   "sells": 4
+  },
+  "P": {
+   "fast": 8,
+   "slow": 21,
+   "trail": 0.05,
+   "stop": 0.06,
+   "tp": 1000000000.0,
+   "mom_lb": 12,
+   "mom_min": 0.0,
+   "breakout": 0,
+   "max_pos": 4,
+   "no_entry": 6
+  },
+  "ok": true
+ },
+ {
+  "net": -93.208579,
+  "r": {
+   "net_usdc": -93.208579,
+   "return_pct": -0.93208579,
+   "max_dd_pct": 2.258143362171706,
+   "trades": 8,
+   "fees_usdc": 19.916712,
+   "final_cash_usdc": 9906.791421,
+   "buys": 4,
+   "sells": 4
+  },
+  "P": {
+   "fast": 8,
+   "slow": 21,
+   "trail": 0.05,
+   "stop": 0.1,
+   "tp": 0.1,
+   "mom_lb": 12,
+   "mom_min": 0.0,
+   "breakout": 0,
+   "max_pos": 4,
+   "no_entry": 6
+  },
+  "ok": true
+ },
+ {
+  "net": -93.208579,
+  "r": {
+   "net_usdc": -93.208579,
+   "return_pct": -0.93208579,
+   "max_dd_pct": 2.258143362171706,
+   "trades": 8,
+   "fees_usdc": 19.916712,
+   "final_cash_usdc": 9906.791421,
+   "buys": 4,
+   "sells": 4
+  },
+  "P": {
+   "fast": 8,
+   "slow": 21,
+   "trail": 0.05,
+   "stop": 0.1,
+   "tp": 0.2,
+   "mom_lb": 12,
+   "mom_min": 0.0,
+   "breakout": 0,
+   "max_pos": 4,
+   "no_entry": 6
+  },
+  "ok": true
+ },
+ {
+  "net": -93.208579,
+  "r": {
+   "net_usdc": -93.208579,
+   "return_pct": -0.93208579,
+   "max_dd_pct": 2.258143362171706,
+   "trades": 8,
+   "fees_usdc": 19.916712,
+   "final_cash_usdc": 9906.791421,
+   "buys": 4,
+   "sells": 4
+  },
+  "P": {
+   "fast": 8,
+   "slow": 21,
+   "trail": 0.05,
+   "stop": 0.1,
+   "tp": 1000000000.0,
+   "mom_lb": 12,
+   "mom_min": 0.0,
+   "breakout": 0,
+   "max_pos": 4,
+   "no_entry": 6
+  },
+  "ok": true
+ },
+ {
+  "net": -93.208579,
+  "r": {
+   "net_usdc": -93.208579,
+   "return_pct": -0.93208579,
+   "max_dd_pct": 2.258143362171706,
+   "trades": 8,
+   "fees_usdc": 19.916712,
+   "final_cash_usdc": 9906.791421,
+   "buys": 4,
+   "sells": 4
+  },
+  "P": {
+   "fast": 8,
+   "slow": 21,
+   "trail": 0.07,
+   "stop": 0.04,
+   "tp": 0.1,
+   "mom_lb": 12,
+   "mom_min": 0.0,
+   "breakout": 0,
+   "max_pos": 4,
+   "no_entry": 6
+  },
+  "ok": true
+ },
+ {
+  "net": -93.208579,
+  "r": {
+   "net_usdc": -93.208579,
+   "return_pct": -0.93208579,
+   "max_dd_pct": 2.258143362171706,
+   "trades": 8,
+   "fees_usdc": 19.916712,
+   "final_cash_usdc": 9906.791421,
+   "buys": 4,
+   "sells": 4
+  },
+  "P": {
+   "fast": 8,
+   "slow": 21,
+   "trail": 0.07,
+   "stop": 0.04,
+   "tp": 0.2,
+   "mom_lb": 12,
+   "mom_min": 0.0,
+   "breakout": 0,
+   "max_pos": 4,
+   "no_entry": 6
+  },
+  "ok": true
+ },
+ {
+  "net": -93.208579,
+  "r": {
+   "net_usdc": -93.208579,
+   "return_pct": -0.93208579,
+   "max_dd_pct": 2.258143362171706,
+   "trades": 8,
+   "fees_usdc": 19.916712,
+   "final_cash_usdc": 9906.791421,
+   "buys": 4,
+   "sells": 4
+  },
+  "P": {
+   "fast": 8,
+   "slow": 21,
+   "trail": 0.07,
+   "stop": 0.04,
+   "tp": 1000000000.0,
+   "mom_lb": 12,
+   "mom_min": 0.0,
+   "breakout": 0,
+   "max_pos": 4,
+   "no_entry": 6
+  },
+  "ok": true
+ },
+ {
+  "net": -93.208579,
+  "r": {
+   "net_usdc": -93.208579,
+   "return_pct": -0.93208579,
+   "max_dd_pct": 2.258143362171706,
+   "trades": 8,
+   "fees_usdc": 19.916712,
+   "final_cash_usdc": 9906.791421,
+   "buys": 4,
+   "sells": 4
+  },
+  "P": {
+   "fast": 8,
+   "slow": 21,
+   "trail": 0.07,
+   "stop": 0.06,
+   "tp": 0.1,
+   "mom_lb": 12,
+   "mom_min": 0.0,
+   "breakout": 0,
+   "max_pos": 4,
+   "no_entry": 6
+  },
+  "ok": true
+ },
+ {
+  "net": -93.208579,
+  "r": {
+   "net_usdc": -93.208579,
+   "return_pct": -0.93208579,
+   "max_dd_pct": 2.258143362171706,
+   "trades": 8,
+   "fees_usdc": 19.916712,
+   "final_cash_usdc": 9906.791421,
+   "buys": 4,
+   "sells": 4
+  },
+  "P": {
+   "fast": 8,
+   "slow": 21,
+   "trail": 0.07,
+   "stop": 0.06,
+   "tp": 0.2,
+   "mom_lb": 12,
+   "mom_min": 0.0,
+   "breakout": 0,
+   "max_pos": 4,
+   "no_entry": 6
+  },
+  "ok": true
+ },
+ {
+  "net": -93.208579,
+  "r": {
+   "net_usdc": -93.208579,
+   "return_pct": -0.93208579,
+   "max_dd_pct": 2.258143362171706,
+   "trades": 8,
+   "fees_usdc": 19.916712,
+   "final_cash_usdc": 9906.791421,
+   "buys": 4,
+   "sells": 4
+  },
+  "P": {
+   "fast": 8,
+   "slow": 21,
+   "trail": 0.07,
+   "stop": 0.06,
+   "tp": 1000000000.0,
+   "mom_lb": 12,
+   "mom_min": 0.0,
+   "breakout": 0,
+   "max_pos": 4,
+   "no_entry": 6
+  },
+  "ok": true
+ },
+ {
+  "net": -93.208579,
+  "r": {
+   "net_usdc": -93.208579,
+   "return_pct": -0.93208579,
+   "max_dd_pct": 2.258143362171706,
+   "trades": 8,
+   "fees_usdc": 19.916712,
+   "final_cash_usdc": 9906.791421,
+   "buys": 4,
+   "sells": 4
+  },
+  "P": {
+   "fast": 8,
+   "slow": 21,
+   "trail": 0.07,
+   "stop": 0.1,
+   "tp": 0.1,
+   "mom_lb": 12,
+   "mom_min": 0.0,
+   "breakout": 0,
+   "max_pos": 4,
+   "no_entry": 6
+  },
+  "ok": true
+ },
+ {
+  "net": -93.208579,
+  "r": {
+   "net_usdc": -93.208579,
+   "return_pct": -0.93208579,
+   "max_dd_pct": 2.258143362171706,
+   "trades": 8,
+   "fees_usdc": 19.916712,
+   "final_cash_usdc": 9906.791421,
+   "buys": 4,
+   "sells": 4
+  },
+  "P": {
+   "fast": 8,
+   "slow": 21,
+   "trail": 0.07,
+   "stop": 0.1,
+   "tp": 0.2,
+   "mom_lb": 12,
+   "mom_min": 0.0,
+   "breakout": 0,
+   "max_pos": 4,
+   "no_entry": 6
+  },
+  "ok": true
+ },
+ {
+  "net": -93.208579,
+  "r": {
+   "net_usdc": -93.208579,
+   "return_pct": -0.93208579,
+   "max_dd_pct": 2.258143362171706,
+   "trades": 8,
+   "fees_usdc": 19.916712,
+   "final_cash_usdc": 9906.791421,
+   "buys": 4,
+   "sells": 4
+  },
+  "P": {
+   "fast": 8,
+   "slow": 21,
+   "trail": 0.07,
+   "stop": 0.1,
+   "tp": 1000000000.0,
+   "mom_lb": 12,
+   "mom_min": 0.0,
+   "breakout": 0,
+   "max_pos": 4,
+   "no_entry": 6
+  },
+  "ok": true
+ },
+ {
+  "net": -93.208579,
+  "r": {
+   "net_usdc": -93.208579,
+   "return_pct": -0.93208579,
+   "max_dd_pct": 2.258143362171706,
+   "trades": 8,
+   "fees_usdc": 19.916712,
+   "final_cash_usdc": 9906.791421,
+   "buys": 4,
+   "sells": 4
+  },
+  "P": {
+   "fast": 8,
+   "slow": 21,
+   "trail": 1000000000.0,
+   "stop": 0.04,
+   "tp": 0.1,
+   "mom_lb": 12,
+   "mom_min": 0.0,
+   "breakout": 0,
+   "max_pos": 4,
+   "no_entry": 6
+  },
+  "ok": true
+ },
+ {
+  "net": -93.208579,
+  "r": {
+   "net_usdc": -93.208579,
+   "return_pct": -0.93208579,
+   "max_dd_pct": 2.258143362171706,
+   "trades": 8,
+   "fees_usdc": 19.916712,
+   "final_cash_usdc": 9906.791421,
+   "buys": 4,
+   "sells": 4
+  },
+  "P": {
+   "fast": 8,
+   "slow": 21,
+   "trail": 1000000000.0,
+   "stop": 0.04,
+   "tp": 0.2,
+   "mom_lb": 12,
+   "mom_min": 0.0,
+   "breakout": 0,
+   "max_pos": 4,
+   "no_entry": 6
+  },
+  "ok": true
+ },
+ {
+  "net": -93.208579,
+  "r": {
+   "net_usdc": -93.208579,
+   "return_pct": -0.93208579,
+   "max_dd_pct": 2.258143362171706,
+   "trades": 8,
+   "fees_usdc": 19.916712,
+   "final_cash_usdc": 9906.791421,
+   "buys": 4,
+   "sells": 4
+  },
+  "P": {
+   "fast": 8,
+   "slow": 21,
+   "trail": 1000000000.0,
+   "stop": 0.04,
+   "tp": 1000000000.0,
+   "mom_lb": 12,
+   "mom_min": 0.0,
+   "breakout": 0,
+   "max_pos": 4,
+   "no_entry": 6
+  },
+  "ok": true
+ },
+ {
+  "net": -93.208579,
+  "r": {
+   "net_usdc": -93.208579,
+   "return_pct": -0.93208579,
+   "max_dd_pct": 2.258143362171706,
+   "trades": 8,
+   "fees_usdc": 19.916712,
+   "final_cash_usdc": 9906.791421,
+   "buys": 4,
+   "sells": 4
+  },
+  "P": {
+   "fast": 8,
+   "slow": 21,
+   "trail": 1000000000.0,
+   "stop": 0.06,
+   "tp": 0.1,
+   "mom_lb": 12,
+   "mom_min": 0.0,
+   "breakout": 0,
+   "max_pos": 4,
+   "no_entry": 6
+  },
+  "ok": true
+ },
+ {
+  "net": -93.208579,
+  "r": {
+   "net_usdc": -93.208579,
+   "return_pct": -0.93208579,
+   "max_dd_pct": 2.258143362171706,
+   "trades": 8,
+   "fees_usdc": 19.916712,
+   "final_cash_usdc": 9906.791421,
+   "buys": 4,
+   "sells": 4
+  },
+  "P": {
+   "fast": 8,
+   "slow": 21,
+   "trail": 1000000000.0,
+   "stop": 0.06,
+   "tp": 0.2,
+   "mom_lb": 12,
+   "mom_min": 0.0,
+   "breakout": 0,
+   "max_pos": 4,
+   "no_entry": 6
+  },
+  "ok": true
+ },
+ {
+  "net": -93.208579,
+  "r": {
+   "net_usdc": -93.208579,
+   "return_pct": -0.93208579,
+   "max_dd_pct": 2.258143362171706,
+   "trades": 8,
+   "fees_usdc": 19.916712,
+   "final_cash_usdc": 9906.791421,
+   "buys": 4,
+   "sells": 4
+  },
+  "P": {
+   "fast": 8,
+   "slow": 21,
+   "trail": 1000000000.0,
+   "stop": 0.06,
+   "tp": 1000000000.0,
+   "mom_lb": 12,
+   "mom_min": 0.0,
+   "breakout": 0,
+   "max_pos": 4,
+   "no_entry": 6
+  },
+  "ok": true
+ },
+ {
+  "net": -93.208579,
+  "r": {
+   "net_usdc": -93.208579,
+   "return_pct": -0.93208579,
+   "max_dd_pct": 2.258143362171706,
+   "trades": 8,
+   "fees_usdc": 19.916712,
+   "final_cash_usdc": 9906.791421,
+   "buys": 4,
+   "sells": 4
+  },
+  "P": {
+   "fast": 8,
+   "slow": 21,
+   "trail": 1000000000.0,
+   "stop": 0.1,
+   "tp": 0.1,
+   "mom_lb": 12,
+   "mom_min": 0.0,
+   "breakout": 0,
+   "max_pos": 4,
+   "no_entry": 6
+  },
+  "ok": true
+ },
+ {
+  "net": -93.208579,
+  "r": {
+   "net_usdc": -93.208579,
+   "return_pct": -0.93208579,
+   "max_dd_pct": 2.258143362171706,
+   "trades": 8,
+   "fees_usdc": 19.916712,
+   "final_cash_usdc": 9906.791421,
+   "buys": 4,
+   "sells": 4
+  },
+  "P": {
+   "fast": 8,
+   "slow": 21,
+   "trail": 1000000000.0,
+   "stop": 0.1,
+   "tp": 0.2,
+   "mom_lb": 12,
+   "mom_min": 0.0,
+   "breakout": 0,
+   "max_pos": 4,
+   "no_entry": 6
+  },
+  "ok": true
+ },
+ {
+  "net": -93.208579,
+  "r": {
+   "net_usdc": -93.208579,
+   "return_pct": -0.93208579,
+   "max_dd_pct": 2.258143362171706,
+   "trades": 8,
+   "fees_usdc": 19.916712,
+   "final_cash_usdc": 9906.791421,
+   "buys": 4,
+   "sells": 4
+  },
+  "P": {
+   "fast": 8,
+   "slow": 21,
+   "trail": 1000000000.0,
+   "stop": 0.1,
+   "tp": 1000000000.0,
+   "mom_lb": 12,
+   "mom_min": 0.0,
+   "breakout": 0,
+   "max_pos": 4,
+   "no_entry": 6
+  },
+  "ok": true
+ },
+ {
+  "net": -98.384962,
+  "r": {
+   "net_usdc": -98.384962,
+   "return_pct": -0.98384962,
+   "max_dd_pct": 2.3092143157819733,
+   "trades": 10,
+   "fees_usdc": 24.908914,
+   "final_cash_usdc": 9901.615038,
+   "buys": 5,
+   "sells": 5
+  },
+  "P": {
+   "fast": 8,
+   "slow": 21,
+   "trail": 0.03,
+   "stop": 0.04,
+   "tp": 0.1,
+   "mom_lb": 12,
+   "mom_min": 0.0,
+   "breakout": 0,
+   "max_pos": 4,
+   "no_entry": 6
+  },
+  "ok": true
+ },
+ {
+  "net": -98.384962,
+  "r": {
+   "net_usdc": -98.384962,
+   "return_pct": -0.98384962,
+   "max_dd_pct": 2.3092143157819733,
+   "trades": 10,
+   "fees_usdc": 24.908914,
+   "final_cash_usdc": 9901.615038,
+   "buys": 5,
+   "sells": 5
+  },
+  "P": {
+   "fast": 8,
+   "slow": 21,
+   "trail": 0.03,
+   "stop": 0.04,
+   "tp": 0.2,
+   "mom_lb": 12,
+   "mom_min": 0.0,
+   "breakout": 0,
+   "max_pos": 4,
+   "no_entry": 6
+  },
+  "ok": true
+ },
+ {
+  "net": -98.384962,
+  "r": {
+   "net_usdc": -98.384962,
+   "return_pct": -0.98384962,
+   "max_dd_pct": 2.3092143157819733,
+   "trades": 10,
+   "fees_usdc": 24.908914,
+   "final_cash_usdc": 9901.615038,
+   "buys": 5,
+   "sells": 5
+  },
+  "P": {
+   "fast": 8,
+   "slow": 21,
+   "trail": 0.03,
+   "stop": 0.04,
+   "tp": 1000000000.0,
+   "mom_lb": 12,
+   "mom_min": 0.0,
+   "breakout": 0,
+   "max_pos": 4,
+   "no_entry": 6
+  },
+  "ok": true
+ }
+]
